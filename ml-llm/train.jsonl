@@ -1,0 +1,722 @@
+{"input": "superposition", "output": "The principle that any given rock layer is probably older than those above it and younger than those below it"}
+{"input": "continental crust", "output": "Extends from surface of Earth down to 20-30 miles. Continental crust (granite) is less dense then ocean crust (basalt)."}
+{"input": "oceanic crust", "output": "Extends down from the surface of the Earth to 7 miles. Crust is layered and very uniform. Composed of basalt."}
+{"input": "mantle", "output": "Contains most of Earth's mass. Composed of iron, magnesium, aluminum, and silicon-oxygen compounds"}
+{"input": "core", "output": "Composed mostly of iron and is so hot that the outer core is molten. The inner core is under such extreme pressure that it remains solid."}
+{"input": "Continental Drift Theory", "output": "1915- Alfred Wegener proposed that all present-day continents originally formed one landmass (Pangaea)."}
+{"input": "lithosphere", "output": "Lithosphere (crust and upper mantle) is divided into massive sections known as plates, which float and move on the asthenosphere."}
+{"input": "transform boundaries", "output": "Occur where plates slide PAST each other."}
+{"input": "San Andreas Fault", "output": "Found near the western coast of North America. Where the Pacific and North American plates move relative to each other."}
+{"input": "divergent boundaries", "output": "Occur where two plates slide APART from each other with the space that was created being filled with molten magma from below."}
+{"input": "Mid-Atlantic Ridge and Pacific Rise", "output": "Examples of oceanic divergent boundaries."}
+{"input": "East African Great Rift Valley", "output": "Examples of areas of continental divergent boundaries"}
+{"input": "convergent boundaries", "output": "Occur where two plates slide TOWARD each other, commonly forming either a subduction zone or orogonic belt."}
+{"input": "subduction zone", "output": "Occurs when a denser oceanic plate moves underneath (subducts) a less-dense continental plate.  e.g. Cascade Mountain range (includes Mount Saint Helens)"}
+{"input": "island arc", "output": "A curved chain of volcanic islands created when two oceanic plates converge.  e.g. Japan and the Aleutian Islands in Alaska"}
+{"input": "mountain range", "output": "Created when two continental plates collide.  e.g. Himalayas (Nepal and China)"}
+{"input": "earthquakes", "output": "Caused by friction and stress buildup from the sliding plates, a common feature along transform boundaries.  e.g. Haiti Earthquake 2010"}
+{"input": "seismic waves", "output": "energy released in the form of vibrations when there is abrupt movement on an existing fault; they move in all directions through the surround rock"}
+{"input": "P waves (Primary waves)", "output": "Are body waves that travel through the interior of the Earth."}
+{"input": "S waves (Secondary waves)", "output": "Are produced when material moves either vertically or horizontally and travel only within the uppermost layers of Earth."}
+{"input": "The severity of an earthquake depends on:", "output": "-The amount of potential energy that had been stored -The distance the rock mass moved when the energy was released -How far below the surface the movement occured -The makeup of the rock material"}
+{"input": "liquefaction", "output": "The process by which an earthquake's violent movement suddenly turns loose soil into liquid mud."}
+{"input": "tsunami", "output": "A series of waves created when a body of water is rapidly displaced usually be an earthquake.  e.g. T\u014dhoku, Japan Earthquake and Tsunami 2011 (also led to nuclear meltdown at Fukushima)"}
+{"input": "volcano", "output": "A mountain or hill having a crater or vent through which lava, rock fragments, hot vapor, and gas are being or have been erupted from the earth's crust"}
+{"input": "What do volcano eruptions do to our atmosphere?", "output": "-Release CO2, SO2, HCl -debris and particulates can block sunlight, making a cooler climate"}
+{"input": "Factors that affect the amount of solar energy at the surface of the Earth:", "output": "-Earth's rotation (once every 24 hours) -tilt of Earth's axis (23.5 degrees) -revolution around the sun (once per year) -closest to sun in winter, furthest in summer"}
+{"input": "O Horizon", "output": "Surface litter: leaves and partially decomposed organic debris. Thick in deciduous forests, thin in the tundra."}
+{"input": "A Horizon", "output": "Topsoil: organic matter (humus), living organisms, inorganic minerals. Topsoil is very thick in grasslands."}
+{"input": "E Horizon", "output": "Zone of leaching: dissolved and suspended materials move downward. In-between A and B horizon."}
+{"input": "B Horizon", "output": "Subsoil: tends to be yellowish in color due to the accumulation of Fe, Al, humic compounds, and clay leached down from A and E horizons. Can be rich in nutrients in areas with lots of rainwater."}
+{"input": "C Horizon", "output": "Weathered parent material: partially broken-down inorganic minerals"}
+{"input": "parent material", "output": "The rock and minerals from which the soil derives. Nature of parent rock can be native to the area or transported by wind, water, glaciers, etc."}
+{"input": "clay", "output": "-very fine particles -compacts easily -forms large, dense clumps when wet -low permeability to water, thus upper layers bcome waterlogged"}
+{"input": "gravel", "output": "-coarse particles -consists of rock fragments"}
+{"input": "loam", "output": "-about equal mixtures of clay, sand, silt, and humus -rich in nutrients -holds water but does not become waterlogged"}
+{"input": "sand", "output": "-sedimentary material coarser than silt -water flow through too quickly for most crops -good for crops and plants requiring low amounts of water"}
+{"input": "silt", "output": "-sedimentary material consisting of very fine particles between the size of sand and clay -easily transported by water"}
+{"input": "What color soil is most fertile?", "output": "a rich dark brown"}
+{"input": "waterlogging", "output": "saturation of soil with water resulting in a rise of the water table"}
+{"input": "problems of waterlogging", "output": "salty water envelops deep roots killing plants; lowers productivity; eventual destruction of plant life"}
+{"input": "solutions of waterlogging", "output": "switch to less water-demanding plants in susceptible areas; utilize conservation-tillage farming; plant waterlog-resistant plants; install drainage popes"}
+{"input": "salinization", "output": "a soil degradation process caused by repeated annual application of irrigation water in dry climates, which leads to the gradual accumulation of salts in the upper soil layers"}
+{"input": "problems of salinization", "output": "stunted crop growth; lower yield; eventual destruction of plant life"}
+{"input": "solutions of salinization", "output": "take land out of production for a while; install drainage pipes; flush soil with freshwater; planted halophytes (salt-loving plants) like barley, cotton, sugar, or wheat"}
+{"input": "desertification", "output": "occurs when the productive potential of soil, especially on arid or semiarid land, falls by 10% or more because of a combination of prolonged drought and human activities that reduce or degrade topsoil"}
+{"input": "problems of desertification", "output": "loss of native vegetation; increased wind erosion; salinization; drop in water table; reduced surface water supply"}
+{"input": "solutions of desertification", "output": "reduce overgrazing; reduce deforestation; reduce destructive forms of planting, irrigation, and mining; plant trees and grasses to hold soil"}
+{"input": "Soil erosion", "output": "is the movement of soil components, especially surface litter and topsoil, from one place to another by the actions of wind and water"}
+{"input": "What is most harmful human activity?", "output": "Agriculture has a greater harmful environmental impact than any other human activity"}
+{"input": "igneous", "output": "formed by cooling and classified by their silica content.  -majority of rocks in Earth's crust are igneous -Intrusive igneous rocks solidify deep underground, cool slowly and have large-grained texture. -Extrusive igneous rocks solidify on or near the surface, cool quickly, and have fine-grained smooth texture.  -Igneous rocks are broken down by weathering and water transport. e.g. granite and basalt"}
+{"input": "metamorphic", "output": "formed by intense heat and pressure e.g. diamond, marble asbestos, slate, anthracite coal"}
+{"input": "sedimentary", "output": "formed by piling and cementing of various materials over time in low-lying areas. Fossils form only in sedimentary rock. e.g. conglomerate, breccia, sandstone"}
+{"input": "What seven primary compounds is the Earth's atmosphere composed of?", "output": "-nitrogen (78%) -oxygen (21%) -water vapor (0-4%) -carbon dioxide (<<1%) -methane (<<<1%) -nitrous oxide (<<<1%) -ozone (<<<1%)"}
+{"input": "Nitrogen (N2)", "output": "Fundamental nutrient for living organisms. Deposits on Earth through nitrogen fixation and reactions involving lightning and subsequent precipitation. Returns to the atmosphere through combustion of biomass and denitrification."}
+{"input": "Oxygen (O2)", "output": "Oxygen molecules are produced through photosynthesis and are utilized in cellular respiration."}
+{"input": "Water vapor (H2O)", "output": "Largest amounts occur near equator, over oceans, and in tropical regions. Areas where atmospheric water vapor can be low are polar areas and deserts. -most voluminous greenhouse gas, cannot be added or reduced"}
+{"input": "Carbon dioxide (CO2)", "output": "Volume of CO2 has increased about 25% in the last 300 years due to the burning of fossil fuels and deforestation. CO2 is produced during cellular respiration and the decay of organic matter. It is a reactant in photosynthesis. CO2 is also a major greenhouse gas. -stays in atmosphere 100 years"}
+{"input": "Methane (CH4)", "output": "Methane contributes to the greenhouse effect. Since 1750, methane has increased about 150% due to use of fossil fuels, coal mining, landfills, grazers, etc. -stays in atmosphere 12 years"}
+{"input": "Nitrous oxide (NO2)", "output": "Concentration increasing about 0.3% per year. Sources include burning of fossil fuels, use of fertilizers, burning biomass, deforestation, etc. Can come from livestock farts. -stays in atmosphere 120 years"}
+{"input": "Ozone (O3)", "output": "97% of ozone is found in the stratosphere (ozone layer). Ozone absorbs UV radiation. Ozone is produced in the production of photochemical smog. CFC's have contributed to ozone layer depletion. Ozone is a pollutant in the troposphere."}
+{"input": "troposphere", "output": "-75% of atmosphere's mass is in the troposphere -temperature decreases with altitude -weather occurs in this zone"}
+{"input": "stratosphere", "output": "-temperature increases with altitude due to absorption of heat by ozone -ozone is produced by UV radiation and lightning -contains the ozone layer"}
+{"input": "mesosphere", "output": "-temperature decreases with altitude -coldest layer -ice clouds occur here -meteors (shooting stars) burn up in this layer"}
+{"input": "thermosphere (ionosphere)", "output": "-temperature increase with height due to gamma rays, X rays, and UV radiation -molecules are converted into ions -causes Northern lights"}
+{"input": "weather", "output": "is a LOCAL area's short-term temperature, precipitation, humidity, wind speed, cloud cover, and other physical conditions of the lower atmosphere as measured over hours or days -caused by movement of heat energy"}
+{"input": "climate", "output": "is an area's GENERAL pattern of atmospheric of weather conditions measured over long periods of time ranging from decades to thousands of years"}
+{"input": "radiation", "output": "the flow of electromagnetic radiation. Method by which Earth receives solar energy."}
+{"input": "conduction", "output": "involves transfer of heat through a substance that results from a difference in temperature"}
+{"input": "convection", "output": "is the primary way energy is transferred from hotter to colder regions in the Earth's atmosphere and determines weather patterns"}
+{"input": "Relationship between cold and hot air", "output": "Cold air is more dense, hot air is less dense and more spread out"}
+{"input": "albedo", "output": "is the diffuse reflectivity or reflecting power of a surface"}
+{"input": "specific heat", "output": "is the amount of heat per unit mass required to raise the temperature by one degree Celsius (water has a high specific heat)"}
+{"input": "temperature inversion", "output": "stops atmospheric convection (which is normally present) from happening in the affected area and can lead to the air becoming stiller and murky from the collection of dust and pollutants that are no longer able to be lifted from the surface. Worsens pollution. (COLD air) OVER (WARM air)"}
+{"input": "formation of clouds", "output": "when rising air, through expansion, cools to the point where some of the water vapor molecules \"clump together\" faster than they are torn apart by their thermal energy. Some of that (invisible) water vapor condenses to form (visible) cloud droplets or ice crystals."}
+{"input": "dew point", "output": "is the temperature below which the water vapor in a volume of humid air condense into liquid water"}
+{"input": "Rain shadow (orographic) effect", "output": "the loss of moisture from the landscape and the resulting semiarid or arid conditions on the leeward side of high mountains -Windward= lush, green, clouds, precipitation, ocean...leedward= deserts, sinking air, dry"}
+{"input": "Coriolis Effect", "output": "an effect whereby a mass moving in a rotating system experiences a force (the Coriolis force) acting perpendicular to the direction of motion and to the axis of rotation."}
+{"input": "monsoons", "output": "a seasonal prevailing wind in the region of South and Southeast Asia, blowing from the southwest between May and September and bringing rain (the wet monsoon), or from the northeast between October and April (the dry monsoon)"}
+{"input": "El Ni\u00f1o and La Ni\u00f1a (Southern Oscillation (ENSO))", "output": "large-scale weather phenomenon occurs every few years when prevailing winds in the tropical Pacific Ocean weaken and change direction o Above-average warming of Pacific waters affects populations of marine species by changing the distribution of plant nutrients, hurting fishing industry o Low nutrients, low dissolved oxygen (in South America, but in Australia during La Ni\u00f1a) o Severe flooding, storms, drought, mudslides, $ damage, human health hazards (dehydration, diarrhea, zoonotic diseases [lyme, Hanta])"}
+{"input": "Grasshopper effect", "output": "occurs when volatile air pollutants are transported by evaporation and winds from tropical and temperate areas though the atmosphere to the earth's polar areas, where they are deposited."}
+{"input": "natural sources of pollution", "output": "\u2022 dust blown by wind \u2022 pollutants from wildfires and volcanic eruptions \u2022 VOCs (volatile organic chemicals) released by some plants \u2022 Removed naturally by chemical cycles, precipitation, and gravity"}
+{"input": "manmade sources of pollution", "output": "\u2022 Industry, cars, electrical plants, coal \u2022 Burning of fossil fuels"}
+{"input": "primary pollutants", "output": "are harmful chemicals emitted directly into the air from natural processes and human activities  e.g. SOx, NOx, CO, VOCs, particulates, Lead"}
+{"input": "secondary pollutants", "output": "formed by some primary pollutants reacting with one another and with the basic component of air to form new harmful chemicals  e.g. O3, HNO3 (nitric acid), H2SO4 (sulfuric acid [acid rain])"}
+{"input": "Ways Air Pollution is Increased:", "output": "\u2022 Urban buildings can slow wind speed and reduce dilution and removal of pollutants \u2022 Hills and mountains can reduce the flow of air in valleys and allow pollutant levels to build up at ground level \u2022 High temperatures promote the chemical reactions leading to photochemical smog formation (global warming increases smog!) \u2022 Emissions of VOCs from certain trees and plants (e.g. oak, sweet gums, poplars, and kudzu) can play a large role in photochemical smog formation \u2022 Grasshopper effect \u2022 Temperature inversions"}
+{"input": "Industrial smog", "output": "(gray color) consists mostly of sulfur dioxide, suspended droplets of sulfuric acid, and a variety of suspended solid particles"}
+{"input": "Photochemical smog", "output": "(brown color) is a mixture of primary and secondary pollutants formed under the influence of UV radiation from the sun; formation of this smog begins when exhaust from morning commuter vehicles releases large amounts of NO and VOCs into the air over a city  \u2022 VOCs + NOx + heat + sunlight \u2192 ground level ozone (03) + other photochemical oxidants + aldehydes + other secondary pollutants"}
+{"input": "Properties of Water:", "output": "\u2022 strong hydrogen bonds \u2022 high specific heat \u2022 high boiling point \u2022 needs a lot of energy to evaporate \u2022 expands when freezes"}
+{"input": "Where is our water?", "output": "\u2022 70% of Earth's surface is covered by water \u2022 oceans hold about 97% of all water \u2022 3% is freshwater \u2022 majority of freshwater is stuck in glaciers \u2022 71% is saltwater, 0.024% is readily available freshwater \u2022 60% of the human body is water"}
+{"input": "Lake zonation:", "output": "\u2022 littoral zone \u2022 limnetic zone \u2022 photic zone \u2022 profundal zone \u2022 benthic zone (some zones are also applicable to oceans)"}
+{"input": "littoral zone", "output": "\u2022 top layer, near the shore \u2022 consists of the shallow sunlit waters to the depth at which rooted plants such as cattails stop growing \u2022 most productive zone because of sunlight and nutrients from the surrounding land \u2022 high biological diversity"}
+{"input": "limnetic zone", "output": "\u2022 sunlit surface away from shore that extends the depth sunlight penetration \u2022 the main photosynthetic body of the lake \u2022 produces the food and oxygen that support most of the lake's consumers"}
+{"input": "photic zone", "output": "\u2022 also called euphotic zone \u2022 sunlight zone is the depth of the water in a lake or ocean that is exposed to sufficient sunlight for photosynthesis to occur"}
+{"input": "profundal zone", "output": "\u2022 deep open water where it is too dark for photosynthesis \u2022 without sunlight and plants, oxygen levels are low"}
+{"input": "benthic zone", "output": "\u2022 bottom layer \u2022 inhabited by decomposers, detritus feeders, and some fish \u2022 dead matter falls here"}
+{"input": "oligotrophic lakes", "output": "lakes that have a small supply of plant nutrients e.g. glaciers, mountains, lakes"}
+{"input": "eutrophic lakes", "output": "lakes that are well-nourished; have large supply of plants nutrients; are shallow with murky brown or green water"}
+{"input": "mesotrophic", "output": "no nutrients in lakes"}
+{"input": "hypereutrophic", "output": "too many nutrients"}
+{"input": "Anthropogenic", "output": "derived from human activities"}
+{"input": "Erosion", "output": "The process by which wind, water, ice, or gravity transports soil and sediment from one location to another"}
+{"input": "Runoff", "output": "Part of the water cycle where an excess of water runs down and does not sink into the soil and eventually makes it to the rivers, lakes, and oceans."}
+{"input": "Denitrification", "output": "process in which fixed nitrogen compounds are converted back into nitrogen gas and returned to the atmosphere"}
+{"input": "Nitrification", "output": "ammonia (NH3) is converted to nitrate ions (NO3)-"}
+{"input": "Amonification", "output": "the part of the decomposition process where nitrogen in inorganic molecules reaction acids and nucleotides is converted to ammonium"}
+{"input": "Nitrogen Fixation", "output": "Process of converting nitrogen gas into ammonia"}
+{"input": "Abiotic", "output": "Non-living things"}
+{"input": "Biotic", "output": "Describes living factors in the environment."}
+{"input": "keystone species", "output": "a species on which other species in an ecosystem largely depend, such that if it were removed the ecosystem would change drastically."}
+{"input": "primary consumer", "output": "An organism that eats producers"}
+{"input": "secondary consumer", "output": "A carnivore that eats primary consumers"}
+{"input": "tertiary consumer", "output": "A carnivore that eats secondary consumers"}
+{"input": "Biodiversity", "output": "The amount of biological or living diversity per unit area. It includes the concepts of species diversity, habitat diversity and genetic diversity."}
+{"input": "Divergent plates", "output": "Two tectonic plates that are moving away from each other"}
+{"input": "convergent plates", "output": "tectonic plates that collide with each other"}
+{"input": "Transform Plates", "output": "Plates that are moving past each other (rubbing next to each other) in opposite directions"}
+{"input": "primary succession", "output": "succession that occurs on surfaces where no soil exists"}
+{"input": "secondary succession", "output": "Succession following a disturbance that destroys a community without destroying the soil"}
+{"input": "logistic growth", "output": "Growth pattern in which a population's growth rate slows or stops following a period of exponential growth"}
+{"input": "logistic growth model", "output": "describes a population whose growth is initially exponential, but slows as the population approaches the carrying capacity of the environment"}
+{"input": "exponential growth", "output": "Population growth that is unhindered because of the abundance of resources for an ever-increasing population."}
+{"input": "exponential growth model", "output": "tells us that, under ideal conditions, the future size of the population depends on the current size of the population, the intrinsic rate of the population, and the amount of time over which the population grows"}
+{"input": "intrinsic growth rate", "output": "the maximum potential for growth of a population under ideal conditions with unlimited resources"}
+{"input": "K-selected species", "output": "Species that produce a few, often fairly large offspring but invest a great deal of time and energy to ensure that most of those offspring reach reproductive age."}
+{"input": "r-selected species", "output": "Species that reproduce early in their life span and produce large numbers of usually small and short-lived offspring in a short period."}
+{"input": "Generalists species", "output": "Species that can live in varying conditions"}
+{"input": "Specialists species", "output": "Species with a narrow ecological niche. They may be able to live in only one type of habitat, tolerate only a narrow range of climatic and other environmental conditions, or use only one type or a few types of food."}
+{"input": "Fault", "output": "A break or crack in the earth's crust"}
+{"input": "Microevolution", "output": "Change in allele frequencies in a population over generations."}
+{"input": "Macroevolution", "output": "Evolutionary change above the species level."}
+{"input": "Algal Bloom", "output": "an immediate increase in the amount of algae and other producers that results from a large input of a limiting nutrient"}
+{"input": "Limiting Nutrients", "output": "single essential nutrient that limits productivity in an ecosystem; Nitrogen, Phosphorus, Potassium"}
+{"input": "Hypoxic", "output": "low oxygen"}
+{"input": "Amenia", "output": "deficiency of iron"}
+{"input": "Externality", "output": "the impact of one person's actions on the well-being of a bystander"}
+{"input": "Affluence", "output": "abundance; wealth"}
+{"input": "Leaching", "output": "the transportation of dissolved molecules through the soil via groundwater"}
+{"input": "Resilience", "output": "the rate at which an ecosystem returns to its original state after a disturbance"}
+{"input": "Resistance", "output": "a measure of how much a disturbance can affect flows of energy and matter in an ecosystem"}
+{"input": "Watershed", "output": "An ecosystem where all water runoff drains into a single body of water"}
+{"input": "Generalists", "output": "a species with a broad niche that can tolerate a wide range of conditions and can use a variety of resources"}
+{"input": "Specialists", "output": "species that have narrow niches"}
+{"input": "R-selected", "output": "Species that reproduce early in their life span and produce large numbers of usually small and short-lived offspring in a short period."}
+{"input": "K-selected", "output": "Species that produce a few, often fairly large offspring but invest a great deal of time and energy to ensure that most of those offspring reach reproductive age."}
+{"input": "Tragedy of the Commons", "output": "the tendency of a shared, limited resource to become depleted because people act from self-interest for short-term gain"}
+{"input": "Stakeholders", "output": "All the people who stand to gain or lose by the policies and activities of a business and whose concerns the business needs to address."}
+{"input": "Eutrophication", "output": "A process by which nutrients, particularly phosphorus and nitrogen, become highly concentrated in a body of water, leading to increased growth of organisms such as algae or cyanobacteria."}
+{"input": "Mutualism", "output": "A relationship between two species in which both species benefit"}
+{"input": "Commensalism", "output": "A relationship between two organisms in which one organism benefits and the other is unaffected"}
+{"input": "Parasitism", "output": "A relationship between two organisms of different species where one benefits and the other is harmed"}
+{"input": "Predation", "output": "An interaction in which one organism kills another for food."}
+{"input": "Herbivory", "output": "interaction in which one animal (the herbivore) feeds on producers (such as plants)"}
+{"input": "Carnivores", "output": "Consumers that eat only animals"}
+{"input": "Omnivores", "output": "Consumers that eat both plants and animals."}
+{"input": "Detrivore", "output": "a scavenger, such as an earthworm, that feeds on dead plant and animal matter"}
+{"input": "Herbivores", "output": "Consumers that eat only plants"}
+{"input": "Decomposers", "output": "organisms that break down wastes and dead organisms and return raw materials to the environment"}
+{"input": "trophic level", "output": "each of several hierarchical levels in an ecosystem, comprising organisms that share the same function in the food chain and the same nutritional relationship to the primary sources of energy."}
+{"input": "How much energy is available/consumed at each trophic level", "output": "10%"}
+{"input": "genetic drift", "output": "A change in the allele frequency of a population as a result of chance events rather than natural selection."}
+{"input": "Founder Effect", "output": "genetic drift that occurs after a small number of individuals colonize a new area"}
+{"input": "Bottleneck Effect", "output": "Genetic drift resulting from the reduction of a population, typically by a natural disaster, such that the surviving population is no longer genetically representative of the original population."}
+{"input": "Natural Selection", "output": "A natural process resulting in the evolution of organisms best adapted to the environment."}
+{"input": "Sexual Selection", "output": "Natural selection for mating success."}
+{"input": "intersexual selection", "output": "Selection whereby individuals of one sex (usually females) are choosy in selecting their mates from individuals of the other sex; also called mate choice."}
+{"input": "intrasexual selection", "output": "competition among individuals of one sex (often males) for mates of the opposite sex"}
+{"input": "sexual dimorphism", "output": "Differences in physical characteristics between males and females of the same species."}
+{"input": "Soil Horizons", "output": "distinct layers of soil"}
+{"input": "O horizon", "output": "the uppermost horizon of soil. It is primarily made up of organic material, including waste from organisms, the bodies of decomposing organisms, and live organisms."}
+{"input": "A horizon", "output": "topsoil"}
+{"input": "E horizon", "output": "Zone of leaching: dissolved and suspended materials move downward. In-between A and B horizon."}
+{"input": "B horizon", "output": "A soil horizon composed primarily of mineral material with very little organic matter"}
+{"input": "C horizon", "output": "The least-weathered soil horizon, which always occurs beneath the B horizon and is similar to the parent material."}
+{"input": "R horizon", "output": "The bedrock, which lies below all of the other layers of soil, is referred to as the R horizon."}
+{"input": "Atmosphere", "output": "the envelope of gases surrounding the earth or another planet."}
+{"input": "Troposphere", "output": "0-17 km above Earth's surface, site of weather, organisms, contains most atmospheric water vapor. (temperature decreases with increasing altitude, pressure decreases)"}
+{"input": "Stratosphere", "output": "2nd layer of atmosphere; extends from 10 to 30 miles up; location of ozone layer; absorbs 95% of Ultraviolet radiation; temperature increases with altitude increase."}
+{"input": "Mesosphere", "output": "3rd layer of the atmosphere, above the stratosphere; most meteors, or space rocks and metal, burn up before they can crash to the ground"}
+{"input": "Thermosphere", "output": "The uppermost layer of the atmosphere, in which temperature increases as altitude increases; contains the ionosphere"}
+{"input": "fossil fuels", "output": "a natural fuel such as coal or gas, formed in the geological past from the remains of living organisms."}
+{"input": "nuclear fuel", "output": "substance used in nuclear reactors that releases energy due to nuclear fission"}
+{"input": "subsistence energy sources", "output": "those gathered by individuals for their own use such as wood, charcoal, and animal waste"}
+{"input": "Commercial energy sources", "output": "Those that are bought and sold, (coal, oil, wood, etc)"}
+{"input": "Cogeneration", "output": "The use of a single fuel to generate electricity and to produce heat"}
+{"input": "coal", "output": "A fossil fuel that forms underground from partially decomposed plant material"}
+{"input": "petroleum", "output": "A fossil fuel that occurs in underground deposits, composed of a liquid mixture of hydrocarbons, water, and sulfur"}
+{"input": "crude oil", "output": "Liquid petroleum removed from the ground"}
+{"input": "Natural gas", "output": "A gas with high methane content, found along with various fossil fuels and is used as a fuel."}
+{"input": "oil sands", "output": "Slow-flowing, viscous deposits of bitumen mixed with sand, water, and clay"}
+{"input": "Bitumen", "output": "A degraded petroleum that forms when petroleum migrates to the surface of Earth and is modified by bacteria."}
+{"input": "CTL (coal to liquid)", "output": "The process of converting solid coal into liquid fuel"}
+{"input": "Energy intensity", "output": "The energy use per unit of gross domestic product"}
+{"input": "Hubbert curve", "output": "A bell-shaped curve representing oil use and projecting both when world oil production will reach a maximum and when we will run out of oil"}
+{"input": "Peak Oil", "output": "The point at which half the total known oil supply is used up"}
+{"input": "Fission", "output": "A nuclear reaction in which a massive nucleus splits into smaller nuclei with the simultaneous release of energy"}
+{"input": "Radioactive waste", "output": "Nuclear fuel that can no longer produce enough heat to be useful in a power plant but continues to emit radioactivity"}
+{"input": "Becquerel (Bq)", "output": "Unit that measures the rate at which a sample of radioactive material decays; 1 Bq = decay of 1 atom or nucleus per second."}
+{"input": "Curie", "output": "A unit of measure for radiation; 1 curie = 37 billion decays per second."}
+{"input": "Nuclear Fusion", "output": "A reaction that occurs when lighter nuclei are forced together to produce heavier nuclei"}
+{"input": "goal of primary treatment in a modern sewage treatment plant", "output": "Primary treatment removes material that will either float or readily settle out by gravity. It includes the physical processes of screening, comminution, grit removal, and sedimentation."}
+{"input": "goal of secondary treatment in a modern sewage treatment plant", "output": "To remove most of the fine suspended and dissolved degradable organic matter that remains after primary treatment, so that the effluent may be rendered suitable for discharge."}
+{"input": "advantage of tertiary treatment in a modern sewage treatment plant", "output": "improves wastewater quality before it is reused, recycled or discharged to the environment. The treatment removes remaining inorganic compounds, and substances, such as the nitrogen and phosphorus."}
+{"input": "Describe one potential environmental problem or one potential human health problem that can result from the presence of raw sewage in surface waters.", "output": "diseases carried by sewage and wastewater are E. coli, shigellosis, typhoid fever, salmonella, and cholera. // The solids in sewage cause the water to appear dark and murky, which also affects the ability of fish to breathe and see around them."}
+{"input": "identify one water parameter that could be measured to determine whether raw sewage is present in surface waterways.", "output": "A pH test measures the alkalinity or acidity of water. A pH of 7 is neutral, below 7 is acidic and above 7 is basic or alkaline. Acid rain, from auto exhaust or other pollutants, causes a drop in the pH. Pollution from accidental spills, agricultural runoff and sewer overflows can also change the pH."}
+{"input": "a solution to reduce the risk of flammable methane from concentrating in landfills", "output": "Biosolids are used to create a special topsoil to cover decommissioned landfills. This topsoil contains microorganisms that convert methane into carbon dioxide, a much less potent greenhouse gas. This can reduce greenhouse gas emissions from landfills by as much as 95%."}
+{"input": "control group", "output": "the group that does not receive the experimental treatment."}
+{"input": "experimental group", "output": "the group in an experiment that receives the variable being tested"}
+{"input": "Dependent Variable (Responding Variable)", "output": "the variable that is observed during the experiment // what the scientists are measuring"}
+{"input": "Independent Variable (Manipulated Variable)", "output": "the variable that you change during an experiment // example: amount of fertilizer, one group got one cup the other group got none"}
+{"input": "Hypothesis Sentence", "output": "i predict \"x\" is going to happen because...."}
+{"input": "Which axis is dependent?", "output": "dependent variable goes on y axis (DRY)"}
+{"input": "Which axis is the independent variable on?", "output": "independent variable goes on x axis (MIX)"}
+{"input": "perfect soil", "output": "loam perfect soil bc it has the perfect ratio of clay silt & sand (20-40-40, respectively)"}
+{"input": "why is clay good for soil?", "output": "slightly negative charge, so they attract micronutrients"}
+{"input": "what can be used as a liner for a landfill?", "output": "clay can be used as a liner for a sanitary landfill bc it is kind of impermiable when it's compacted."}
+{"input": "why is trawl netting bad?", "output": "you drag the net behind a boat along the sea floor which can destroy three dimensional habitats (i.e. coral, seagrass beds, kelp forests, rocky reefs), lead to unintentional catch of other species (by-catch), & overfishing"}
+{"input": "why is purse-seine net fishing bad? (used often to catch tuna)", "output": "it's a massive ring shaped net that leads to by-catch!, & overfishing"}
+{"input": "why is long-line fishing bad?", "output": "drag a long line behind a boat that floats close to the surface & has hooks with bait at the end of them. other animals try to take the bait (i.e. sharks, turtles) which is by-catch, other species such as sea birds & turtles can get entangled, the hooks can tear fins & wings, if there's a storm they get lost in the ocean"}
+{"input": "why is drift-net fishing bad?", "output": "(also known as ghost net) line goes vertical into the ocean & fish swim into them & get stuck. by-catch get stuck in it. fisheries often lose the nets, entanglement"}
+{"input": "sustainable fishing", "output": "fishing rods, fish farms (mainly herbivorous fish) bc you feed the fish seaweed which you can grow, make quotas, allow fisheries to only fish during a certain season"}
+{"input": "problem with aquaculture", "output": "if one fish gets infected with a disease they all get the disease, they feed carnivorous fish (tuna, salmon) smaller feeder fish (anchovies & sardines) so they take lots of those smaller fish out of the ocean (you can farm the smaller fish)"}
+{"input": "problem with fish farming", "output": "when fish are held at unnatural densities, their feces which have nitrates & phosphates gets released & causes eutrophication --> algae runs out of nutrients --> algae die & become detritus --> bacteria thrive bc they're decomposing algae --> cellular respiration"}
+{"input": "massive fish kill", "output": "results in ocean dead zone"}
+{"input": "predator-prey relationship", "output": "lion & zebra"}
+{"input": "Cyclic Relationship", "output": "The two variables follow a repetitive and predictable pattern"}
+{"input": "How much energy is transferred from one trophic level to the next?", "output": "10% (lots of energy is lost to heat & not all energy is assimilated through eating)"}
+{"input": "2nd law of thermodynamics", "output": "The principle whereby every energy transfer or transformation increases the entropy of the universe. Ordered forms of energy are at least partly converted to heat, and in spontaneous reactions, the free energy of the system also decreases."}
+{"input": "1st law of thermodynamics", "output": "energy cannot be created or destroyed, only transformed"}
+{"input": "exponential growth", "output": "Growth pattern in which the individuals in a population reproduce at a constant rate"}
+{"input": "logarithmic growth", "output": "growth of a population that levels off at carrying capacity"}
+{"input": "logistic growth", "output": "growth pattern in which a population's growth slows and then stops following a period of exponential growth"}
+{"input": "carrying capacity", "output": "Largest number of individuals of a population that a environment can support (run out of food, run out of space)"}
+{"input": "invasive species", "output": "A species, often introduced by humans, that takes hold outside its native range."}
+{"input": "riparian zone", "output": "terrestrial vegetation alongside rivers and streams that is influenced by seasonal flooding and elevated water tables"}
+{"input": "symbiotic relationship for mutualism", "output": "bees & flowers"}
+{"input": "symbiotic commensalism", "output": "the commensal benefits; other member not harmed"}
+{"input": "symbiotic parasitism", "output": "parasite is dependent and benefits; host harmed"}
+{"input": "competitive exclusion principle", "output": "no two species can occupy the same niche in the same habitat at the same time // to avoid competitive exclusion is resource partitioning"}
+{"input": "a group of species is a...", "output": "population"}
+{"input": "when multiple species are present in an area...", "output": "community"}
+{"input": "a place where species interact with the biological & physical aspects of the area...", "output": "ecosystem"}
+{"input": "a biome is defined by its _______ & ______ patterns, or climate", "output": "temperature // precipitation"}
+{"input": "positive feedback loop", "output": "Causes a system to change further in the same direction (the dorito effect)"}
+{"input": "negative feedback loop", "output": "Causes a system to change in the opposite direction from which it is moving"}
+{"input": "what is the number one producer of oxygen?", "output": "phytoplankton (produce 50-70%)"}
+{"input": "what is the predominant source of oxygen & what represents the biggest carbon sink?", "output": "the ocean (phytoplankton)"}
+{"input": "Anthropogenic", "output": "derived from human activities"}
+{"input": "Erosion", "output": "The process by which wind, water, ice, or gravity transports soil and sediment from one location to another"}
+{"input": "Runoff", "output": "Part of the water cycle where an excess of water runs down and does not sink into the soil and eventually makes it to the rivers, lakes, and oceans."}
+{"input": "Denitrification", "output": "process in which fixed nitrogen compounds are converted back into nitrogen gas and returned to the atmosphere"}
+{"input": "Nitrification", "output": "ammonia (NH3) is converted to nitrate ions (NO3)-"}
+{"input": "Amonification", "output": "the part of the decomposition process where nitrogen in inorganic molecules reaction acids and nucleotides is converted to ammonium"}
+{"input": "Nitrogen Fixation", "output": "Process of converting nitrogen gas into ammonia"}
+{"input": "Abiotic", "output": "Non-living things"}
+{"input": "Biotic", "output": "Describes living factors in the environment."}
+{"input": "keystone species", "output": "a species on which other species in an ecosystem largely depend, such that if it were removed the ecosystem would change drastically."}
+{"input": "primary consumer", "output": "An organism that eats producers"}
+{"input": "secondary consumer", "output": "A carnivore that eats primary consumers"}
+{"input": "tertiary consumer", "output": "A carnivore that eats secondary consumers"}
+{"input": "Biodiversity", "output": "The amount of biological or living diversity per unit area. It includes the concepts of species diversity, habitat diversity and genetic diversity."}
+{"input": "Divergent plates", "output": "Two tectonic plates that are moving away from each other"}
+{"input": "convergent plates", "output": "tectonic plates that collide with each other"}
+{"input": "Transform Plates", "output": "Plates that are moving past each other (rubbing next to each other) in opposite directions"}
+{"input": "primary succession", "output": "succession that occurs on surfaces where no soil exists"}
+{"input": "secondary succession", "output": "Succession following a disturbance that destroys a community without destroying the soil"}
+{"input": "logistic growth", "output": "Growth pattern in which a population's growth rate slows or stops following a period of exponential growth"}
+{"input": "logistic growth model", "output": "describes a population whose growth is initially exponential, but slows as the population approaches the carrying capacity of the environment"}
+{"input": "exponential growth", "output": "Population growth that is unhindered because of the abundance of resources for an ever-increasing population."}
+{"input": "exponential growth model", "output": "tells us that, under ideal conditions, the future size of the population depends on the current size of the population, the intrinsic rate of the population, and the amount of time over which the population grows"}
+{"input": "intrinsic growth rate", "output": "the maximum potential for growth of a population under ideal conditions with unlimited resources"}
+{"input": "K-selected species", "output": "Species that produce a few, often fairly large offspring but invest a great deal of time and energy to ensure that most of those offspring reach reproductive age."}
+{"input": "r-selected species", "output": "Species that reproduce early in their life span and produce large numbers of usually small and short-lived offspring in a short period."}
+{"input": "Generalists species", "output": "Species that can live in varying conditions"}
+{"input": "Specialists species", "output": "Species with a narrow ecological niche. They may be able to live in only one type of habitat, tolerate only a narrow range of climatic and other environmental conditions, or use only one type or a few types of food."}
+{"input": "Fault", "output": "A break or crack in the earth's crust"}
+{"input": "Microevolution", "output": "Change in allele frequencies in a population over generations."}
+{"input": "Macroevolution", "output": "Evolutionary change above the species level."}
+{"input": "Algal Bloom", "output": "an immediate increase in the amount of algae and other producers that results from a large input of a limiting nutrient"}
+{"input": "Limiting Nutrients", "output": "single essential nutrient that limits productivity in an ecosystem; Nitrogen, Phosphorus, Potassium"}
+{"input": "Hypoxic", "output": "low oxygen"}
+{"input": "Amenia", "output": "deficiency of iron"}
+{"input": "Externality", "output": "the impact of one person's actions on the well-being of a bystander"}
+{"input": "Affluence", "output": "abundance; wealth"}
+{"input": "Leaching", "output": "the transportation of dissolved molecules through the soil via groundwater"}
+{"input": "Resilience", "output": "the rate at which an ecosystem returns to its original state after a disturbance"}
+{"input": "Resistance", "output": "a measure of how much a disturbance can affect flows of energy and matter in an ecosystem"}
+{"input": "Watershed", "output": "An ecosystem where all water runoff drains into a single body of water"}
+{"input": "Generalists", "output": "a species with a broad niche that can tolerate a wide range of conditions and can use a variety of resources"}
+{"input": "Specialists", "output": "species that have narrow niches"}
+{"input": "R-selected", "output": "Species that reproduce early in their life span and produce large numbers of usually small and short-lived offspring in a short period."}
+{"input": "K-selected", "output": "Species that produce a few, often fairly large offspring but invest a great deal of time and energy to ensure that most of those offspring reach reproductive age."}
+{"input": "Tragedy of the Commons", "output": "the tendency of a shared, limited resource to become depleted because people act from self-interest for short-term gain"}
+{"input": "Stakeholders", "output": "All the people who stand to gain or lose by the policies and activities of a business and whose concerns the business needs to address."}
+{"input": "Eutrophication", "output": "A process by which nutrients, particularly phosphorus and nitrogen, become highly concentrated in a body of water, leading to increased growth of organisms such as algae or cyanobacteria."}
+{"input": "Mutualism", "output": "A relationship between two species in which both species benefit"}
+{"input": "Commensalism", "output": "A relationship between two organisms in which one organism benefits and the other is unaffected"}
+{"input": "Parasitism", "output": "A relationship between two organisms of different species where one benefits and the other is harmed"}
+{"input": "Predation", "output": "An interaction in which one organism kills another for food."}
+{"input": "Herbivory", "output": "interaction in which one animal (the herbivore) feeds on producers (such as plants)"}
+{"input": "Carnivores", "output": "Consumers that eat only animals"}
+{"input": "Omnivores", "output": "Consumers that eat both plants and animals."}
+{"input": "Detrivore", "output": "a scavenger, such as an earthworm, that feeds on dead plant and animal matter"}
+{"input": "Herbivores", "output": "Consumers that eat only plants"}
+{"input": "Decomposers", "output": "organisms that break down wastes and dead organisms and return raw materials to the environment"}
+{"input": "trophic level", "output": "each of several hierarchical levels in an ecosystem, comprising organisms that share the same function in the food chain and the same nutritional relationship to the primary sources of energy."}
+{"input": "How much energy is available/consumed at each trophic level", "output": "10%"}
+{"input": "genetic drift", "output": "A change in the allele frequency of a population as a result of chance events rather than natural selection."}
+{"input": "Founder Effect", "output": "genetic drift that occurs after a small number of individuals colonize a new area"}
+{"input": "Bottleneck Effect", "output": "Genetic drift resulting from the reduction of a population, typically by a natural disaster, such that the surviving population is no longer genetically representative of the original population."}
+{"input": "Natural Selection", "output": "A natural process resulting in the evolution of organisms best adapted to the environment."}
+{"input": "Sexual Selection", "output": "Natural selection for mating success."}
+{"input": "intersexual selection", "output": "Selection whereby individuals of one sex (usually females) are choosy in selecting their mates from individuals of the other sex; also called mate choice."}
+{"input": "intrasexual selection", "output": "competition among individuals of one sex (often males) for mates of the opposite sex"}
+{"input": "sexual dimorphism", "output": "Differences in physical characteristics between males and females of the same species."}
+{"input": "Soil Horizons", "output": "distinct layers of soil"}
+{"input": "O horizon", "output": "the uppermost horizon of soil. It is primarily made up of organic material, including waste from organisms, the bodies of decomposing organisms, and live organisms."}
+{"input": "A horizon", "output": "topsoil"}
+{"input": "E horizon", "output": "Zone of leaching: dissolved and suspended materials move downward. In-between A and B horizon."}
+{"input": "B horizon", "output": "A soil horizon composed primarily of mineral material with very little organic matter"}
+{"input": "C horizon", "output": "The least-weathered soil horizon, which always occurs beneath the B horizon and is similar to the parent material."}
+{"input": "R horizon", "output": "The bedrock, which lies below all of the other layers of soil, is referred to as the R horizon."}
+{"input": "Atmosphere", "output": "the envelope of gases surrounding the earth or another planet."}
+{"input": "Troposphere", "output": "0-17 km above Earth's surface, site of weather, organisms, contains most atmospheric water vapor. (temperature decreases with increasing altitude, pressure decreases)"}
+{"input": "Stratosphere", "output": "2nd layer of atmosphere; extends from 10 to 30 miles up; location of ozone layer; absorbs 95% of Ultraviolet radiation; temperature increases with altitude increase."}
+{"input": "Mesosphere", "output": "3rd layer of the atmosphere, above the stratosphere; most meteors, or space rocks and metal, burn up before they can crash to the ground"}
+{"input": "Thermosphere", "output": "The uppermost layer of the atmosphere, in which temperature increases as altitude increases; contains the ionosphere"}
+{"input": "fossil fuels", "output": "a natural fuel such as coal or gas, formed in the geological past from the remains of living organisms."}
+{"input": "nuclear fuel", "output": "substance used in nuclear reactors that releases energy due to nuclear fission"}
+{"input": "subsistence energy sources", "output": "those gathered by individuals for their own use such as wood, charcoal, and animal waste"}
+{"input": "Commercial energy sources", "output": "Those that are bought and sold, (coal, oil, wood, etc)"}
+{"input": "Cogeneration", "output": "The use of a single fuel to generate electricity and to produce heat"}
+{"input": "coal", "output": "A fossil fuel that forms underground from partially decomposed plant material"}
+{"input": "petroleum", "output": "A fossil fuel that occurs in underground deposits, composed of a liquid mixture of hydrocarbons, water, and sulfur"}
+{"input": "crude oil", "output": "Liquid petroleum removed from the ground"}
+{"input": "Natural gas", "output": "A gas with high methane content, found along with various fossil fuels and is used as a fuel."}
+{"input": "oil sands", "output": "Slow-flowing, viscous deposits of bitumen mixed with sand, water, and clay"}
+{"input": "Bitumen", "output": "A degraded petroleum that forms when petroleum migrates to the surface of Earth and is modified by bacteria."}
+{"input": "CTL (coal to liquid)", "output": "The process of converting solid coal into liquid fuel"}
+{"input": "Energy intensity", "output": "The energy use per unit of gross domestic product"}
+{"input": "Hubbert curve", "output": "A bell-shaped curve representing oil use and projecting both when world oil production will reach a maximum and when we will run out of oil"}
+{"input": "Peak Oil", "output": "The point at which half the total known oil supply is used up"}
+{"input": "Fission", "output": "A nuclear reaction in which a massive nucleus splits into smaller nuclei with the simultaneous release of energy"}
+{"input": "Radioactive waste", "output": "Nuclear fuel that can no longer produce enough heat to be useful in a power plant but continues to emit radioactivity"}
+{"input": "Becquerel (Bq)", "output": "Unit that measures the rate at which a sample of radioactive material decays; 1 Bq = decay of 1 atom or nucleus per second."}
+{"input": "Curie", "output": "A unit of measure for radiation; 1 curie = 37 billion decays per second."}
+{"input": "Nuclear Fusion", "output": "A reaction that occurs when lighter nuclei are forced together to produce heavier nuclei"}
+{"input": "First Law of Thermodynamics", "output": "Energy is neither created nor destroyed, but may be converted from one form to another."}
+{"input": "El Ni\u00f1o (ENSO)", "output": "prevailing winds in the Pacific weaken and change direction every few years which results in above average warming of eastern Pacific waters, which changes distribution of plant nutrients and alters earth's weather for 2-3 years"}
+{"input": "Reason for seasons on Earth", "output": "Tilt of the axis ~23.5\u00b0"}
+{"input": "Second Law of Thermodynamics", "output": "When energy is changed from one form to another, some useful energy is always degraded into lower quality energy (usually heat)."}
+{"input": "Nuclear Fission", "output": "nuclei of isotopes split apart when struck by neutrons."}
+{"input": "Leaching", "output": "removal of dissolved materials from soil by water moving downwards through soil."}
+{"input": "Soil Conservation Methods", "output": "conservation tillage, crop rotation, contour plowing, organic fertilizers."}
+{"input": "Soil Salinization", "output": "in arid regions, water evaporates leaving salts behind. (ex. Fertile crescent, southwestern US)"}
+{"input": "Hydrologic Cycle Components", "output": "evaporation, transpiration, runoff, condensation, precipitation, and infiltration."}
+{"input": "Watershed", "output": "all of the land that drains into a body of water"}
+{"input": "Aquifer", "output": "any water-bearing layer in the ground."}
+{"input": "Salt Water Intrusion", "output": "near the coast, overpumping of groundwater causes saltwater to move into the aquifer."}
+{"input": "La Nina", "output": "\"Normal\" year, easterly trade winds and ocean currents pool warm water in the western Pacific, allowing upwelling of nutrient rich water off the West coast of South America."}
+{"input": "Nitrogen Fixation", "output": "because atmospheric N cannot be used directly by plants, it must first be converted into ammonia by bacteria."}
+{"input": "Ammonification", "output": "decomposers covert organic waste into ammonia."}
+{"input": "Nitrification", "output": "ammonia is converted to nitrate ions (NO -)."}
+{"input": "Assimilation", "output": "inorganic N is converted into organic molecules such as DNA/amino acids & proteins."}
+{"input": "Denitrification", "output": "bacteria convert ammonia back into N."}
+{"input": "Phosphorus", "output": "does not exist as a gas; released by weathering of phosphate rocks, it is a major limiting factor for plant growth. Phosphorus cycle is slow, and not atmospheric."}
+{"input": "Photosynthesis", "output": "plants convert CO2 (atmospheric C) into complex carbohydrates (glucose C6H12O6)."}
+{"input": "Aerobic Respiration", "output": "oxygen consuming producers, consumers & decomposers break down complex organic compounds & convert C back into CO2."}
+{"input": "Biotic", "output": "living components of an ecosystem."}
+{"input": "Abiotic", "output": "nonliving components of an ecosystem"}
+{"input": "Producer/Autotroph", "output": "organisms that make their own food\u2014photosynthetic life."}
+{"input": "Trophic Levels", "output": "producers \u2192 primary consumer \u2192 secondary consumer \u2192 tertiary consumer."}
+{"input": "Energy Flow through Food Webs", "output": "10% of the usable energy is transferred to the next trophic level. Reason: usable energy lost as heat (2nd law), not all biomass is digested & absorbed, predators expend energy to catch prey."}
+{"input": "Primary succession", "output": "development of communities in a lifeless area not previously inhabited by life (ex. lava)."}
+{"input": "Secondary succession", "output": "life progresses where soil remains (ex. clear-cut forest, old farm)."}
+{"input": "Mutualism", "output": "symbiotic relationship where both organisms benefit (e.g. clownfish and anemone)"}
+{"input": "Commensalism", "output": "symbiotic relationship where one organism benefits & the other is unaffected (e.g. epiphytic plants, such as many orchids, that grow on trees)"}
+{"input": "Parasitism", "output": "relationship in which one organism (the parasite) obtains nutrients at the expense of the host (e.g. mosquitoes and humans)"}
+{"input": "Carrying Capacity", "output": "the number of individuals that can be sustained in an area."}
+{"input": "r-strategist", "output": "reproductive strategy in which organisms reproduce early, bear many small, unprotected offspring (ex. insects, mice)."}
+{"input": "K-strategist", "output": "reproductive strategy in which organisms reproduce late, bear few, cared for offspring (ex. humans, elephants)."}
+{"input": "Natural Selection", "output": "organisms that possess favorable adaptations (through mutations) pass them onto the next generation."}
+{"input": "Thomas Malthus", "output": "The human population grows faster than food production unless kept in check by war, famine & disease. Did not foresee advancements in agriculture."}
+{"input": "Doubling Time", "output": "(rule of 70) doubling time equals 70 divided by average growth rate. (ex. a population growing at 5% annually doubles in 70 \u00f7 5 = 14 years)"}
+{"input": "Replacement Level Fertility", "output": "the number of children a couple must bear to replace themselves (2.1 developed, 2.7 developing)."}
+{"input": "World Population", "output": "slightly over 7.6 billion."}
+{"input": "Demographic Transition Model", "output": "preindustrial, transitional, industrial, and postindustrial stages"}
+{"input": "Preindustrial stage", "output": "birth & death rates high, population grows slowly, infant mortality high."}
+{"input": "Transitional stage", "output": "Aid from other countries and increase in industrialization lowers death rates (infant mortality). Birth rates high (from of the amount of people in the reproductive stage)."}
+{"input": "Industrial stage", "output": "decline in birth rate, population growth slows."}
+{"input": "Postindustrial stage", "output": "low birth & death rates."}
+{"input": "Age Structure Diagrams", "output": "broad base \u2192 rapid growth; narrow base \u2192 negative growth (NPG); uniform shape \u2192 zero growth (ZPG)"}
+{"input": "Most populous nations", "output": "1)China 2)India 3)US 4)Indonesia"}
+{"input": "Low Economic/Social Status of Women", "output": "Most important factor keeping population growth rates high."}
+{"input": "Methods to Decrease Birth Rates", "output": "Family planning, contraception, economic rewards & penalties."}
+{"input": "Composition of Water on Earth", "output": "97.5% seawater, 2.5% freshwater. 0.023% readily available freshwater for use."}
+{"input": "Aquaculture", "output": "farming aquatic species, commonly salmon, shrimp, tilapia, oysters."}
+{"input": "Point Source", "output": "from specific location such as pipe or smokestack"}
+{"input": "Non-Point Source", "output": "from over an area such as agricultural (farm) runoff, traffic."}
+{"input": "Eutrophication", "output": "rapid algal growth caused by an excess of nitrogen & phosphorus."}
+{"input": "Keystone Species", "output": "species whose role in an ecosystem is important for the ecosystem's stability (manatee, alligator, sea otter, etc). Impact outweighs relative abundance"}
+{"input": "Indicator Species", "output": "species that serve as early warnings that an ecosystem is being damaged (amphibians)."}
+{"input": "Pesticide Cons", "output": "genetic resistance, pesticide treadmill, persistence, bioaccumulation, and biological magnification."}
+{"input": "Genetically Modified Organisms (GMOs)", "output": "new organisms created by altering the genetic material (DNA) of existing organisms; usually in an attempt to remove undesirable or create desirable characteristics in the new organism."}
+{"input": "Electricity Generation", "output": "steam, from water boiled by fossils fuels or nuclear energy, or falling water is used to turn a turbine and generate a generator."}
+{"input": "Coal Formation", "output": "prehistoric plants buried undecomposed in oxygen-depleted water of swamps/bogs converted by heat and pressure."}
+{"input": "Nuclear Reactor", "output": "consists of a core, control rods, moderator, steam generator, turbine, containment building."}
+{"input": "Alternate Energy Sources", "output": "wind, solar, waves, biomass, geothermal, fuel cells"}
+{"input": "Troposphere", "output": "first layer of atmosphere 0-10 miles above the Earth's surface. Contains weather, greenhouse gases (bad ozone)"}
+{"input": "Stratosphere", "output": "second layer of atmosphere 10-30 miles above the Earth's surface. Contains protective ozone layer (good ozone)"}
+{"input": "Temperature Inversion", "output": "a warm layer of air above a cooler layer traps pollutants close to the Earth's surface."}
+{"input": "Divergent plate boundaries", "output": "tectonic plates spreading apart, new crust being formed (Mid Ocean Ridge)"}
+{"input": "Convergent plate boundaries", "output": "tectonic plates with the oldest crustal material on Earth moving together, one moving under another. Mineral deposits and volcanoes are most abundant at convergent plate boundaries (Volcanic arc like Japan)"}
+{"input": "Transform Fault", "output": "tectonic plates sliding past one another (San Andreas Fault Line)"}
+{"input": "Most Endangered species", "output": "have a small range, require large territory, have long generations, have very specialized niche, or live on an island"}
+{"input": "Biome", "output": "large distinct terrestrial region having similar climate, soil, plants & animals."}
+{"input": "Tropical Rain Forests", "output": "characterized by the greatest diversity of species, believed to include many undiscovered species. Occur near the equator. Soils tend to be low in nutrients. Distinct seasonality: winter is absent, and only two seasons are present (rainy and dry)."}
+{"input": "Temperate Forests", "output": "occur in eastern North America, Japan, northeastern Asia, and western and central Europe. Dominated by tall deciduous trees. Well-defined seasons include a distinct winter. Logged extensively, only scattered remnants of original temperate forests remain."}
+{"input": "Boreal Forests or Taiga", "output": "represent the largest terrestrial biome. Dominated by needleleaf, coniferous trees. Found in the cold climates of Eurasia and North America: two-thirds in Siberia with the rest in Scandinavia, Alaska, and Canada. Seasons are divided into short, moist, and moderately warm summers and long, cold, and dry winters. Extensive logging may soon cause their disappearance."}
+{"input": "Temperate Shrub Lands", "output": "occurs along the coast of Southern California and the Mediterranean region. Characterized by areas of Chaparral-miniature woodlands dominated by dense stands of shrubs."}
+{"input": "Savannas", "output": "grassland with scattered individual trees. Cover almost half the surface of Africa and large areas of Australia, South America, and India. Warm or hot climates where the annual rainfall is 20-50 inches per year. The rainfall is concentrated in six or eight months of the year, followed by a long period of drought when fires can occur."}
+{"input": "Temperate Grasslands", "output": "dominated by grasses, trees and large shrubs are absent. Temperatures vary more from summer to winter, and the amount of rainfall is less than in savannas. Temperate grasslands have hot summers and cold winters. Occur in South Africa, Hungary, Argentina, the steppes of the former Soviet Union, and the plains and prairies of central North America."}
+{"input": "Deserts", "output": "covers about one fifth of the Earth's surface and occur where rainfall is less than 50 cm/year. Soils may have abundant nutrients, need only water to become productive, and have little or no organic matter. Common disturbances include occasional fires or cold weather, and sudden, infrequent, but intense rains that cause flooding."}
+{"input": "Tundra", "output": "treeless plains that are the coldest of all the biomes. Occur in the arctic and Antarctica. Dominated by lichens, mosses, sedges, and dwarfed shrubs Characterized by extremely cold climate, permanently frozen ground (permafrost) low biotic diversity, simple vegetation structure, limitation of drainage, short season of growth and reproduction."}
+{"input": "Wetlands", "output": "areas of standing water that support aquatic plants including marshes, swamps, and bogs. Reduce flooding. Species diversity is very high."}
+{"input": "Fresh Water", "output": "defined as having a low salt concentration (less than 1%). Plants and animals are adjusted to the low salt content and would not be able to survive in areas of high salt concentration (i.e., ocean). There are different types of regions: ponds and lakes, streams and rivers, and estuaries."}
+{"input": "Oceans", "output": "the largest of all the ecosystems. Regions are separated into separate zones: intertidal, pelagic, abyssal, and benthic."}
+{"input": "Safe Drinking Water Act", "output": "set maximum contaminant levels for pollutants that may have adverse effects on human health."}
+{"input": "Clean Water Act", "output": "Aim: to make all US waterways safe for fishing and swimming. set maximum permissible amounts of water pollutants that can be discharged into waterways. Require the repairment of damaged wetlands."}
+{"input": "Clean Air Act", "output": "NAAQS for 6 criteria pollutants. Set emission standards for mobile and stationary sources, and limits release of air pollutants. Multiple amendments, most influential modern env. law"}
+{"input": "Montreal Protocol", "output": "global agreement to phase out of ozone depleting substances."}
+{"input": "Endangered Species Act", "output": "identifies threatened and endangered species in the US, and puts their protection ahead of economic considerations."}
+{"input": "Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA)", "output": "regulates the use and effectiveness of pesticides"}
+{"input": "Herbicide", "output": "a toxic chemical that kills plants"}
+{"input": "Insecticide", "output": "a toxic chemical that kills insects"}
+{"input": "Rodenticide", "output": "a toxic chemical that kills rodents"}
+{"input": "Fungicide", "output": "a toxic chemical that kills fungi"}
+{"input": "Niche", "output": "organism's role in the ecosystem of which it lives"}
+{"input": "Invasive Species", "output": "introduced into an ecosystem and out-compete native species"}
+{"input": "NO2, SO2, Pb, PM (2.5 and 10), O3, CO", "output": "6 criteria air pollutants"}
+{"input": "Top 4 indoor air pollutants in DEVELOPED countries", "output": "Tobacco smoke, Formaldehyde, Radon Gas, Fine and Ultrafine Particulate Matter"}
+{"input": "saltwater intrusion", "output": "an infiltration of salt water in an area where groundwater pressure has been reduced from extensive drilling of wells"}
+{"input": "rock cycle", "output": "A series of processes on the surface and inside Earth that slowly changes rocks from one kind to another"}
+{"input": "Erosion", "output": "Processes by which rock, sand, and soil are broken down and carried away (i.e. weathering, glaciation)"}
+{"input": "soil conservation", "output": "a method to maintain the fertility of the soil by protecting the soil from erosion and nutrient loss"}
+{"input": "edge effect", "output": "different environmental conditions that occur along the boundaries of an ecosystem. May observe higher biodiversity"}
+{"input": "superposition", "output": "The principle that any given rock layer is probably older than those above it and younger than those below it"}
+{"input": "continental crust", "output": "Extends from surface of Earth down to 20-30 miles. Continental crust (granite) is less dense then ocean crust (basalt)."}
+{"input": "oceanic crust", "output": "Extends down from the surface of the Earth to 7 miles. Crust is layered and very uniform. Composed of basalt."}
+{"input": "mantle", "output": "Contains most of Earth's mass. Composed of iron, magnesium, aluminum, and silicon-oxygen compounds"}
+{"input": "core", "output": "Composed mostly of iron and is so hot that the outer core is molten. The inner core is under such extreme pressure that it remains solid."}
+{"input": "Continental Drift Theory", "output": "1915- Alfred Wegener proposed that all present-day continents originally formed one landmass (Pangaea)."}
+{"input": "lithosphere", "output": "Lithosphere (crust and upper mantle) is divided into massive sections known as plates, which float and move on the asthenosphere."}
+{"input": "transform boundaries", "output": "Occur where plates slide PAST each other."}
+{"input": "San Andreas Fault", "output": "Found near the western coast of North America. Where the Pacific and North American plates move relative to each other."}
+{"input": "divergent boundaries", "output": "Occur where two plates slide APART from each other with the space that was created being filled with molten magma from below."}
+{"input": "Mid-Atlantic Ridge and Pacific Rise", "output": "Examples of oceanic divergent boundaries."}
+{"input": "East African Great Rift Valley", "output": "Examples of areas of continental divergent boundaries"}
+{"input": "convergent boundaries", "output": "Occur where two plates slide TOWARD each other, commonly forming either a subduction zone or orogonic belt."}
+{"input": "subduction zone", "output": "Occurs when a denser oceanic plate moves underneath (subducts) a less-dense continental plate.  e.g. Cascade Mountain range (includes Mount Saint Helens)"}
+{"input": "island arc", "output": "A curved chain of volcanic islands created when two oceanic plates converge.  e.g. Japan and the Aleutian Islands in Alaska"}
+{"input": "mountain range", "output": "Created when two continental plates collide.  e.g. Himalayas (Nepal and China)"}
+{"input": "earthquakes", "output": "Caused by friction and stress buildup from the sliding plates, a common feature along transform boundaries.  e.g. Haiti Earthquake 2010"}
+{"input": "seismic waves", "output": "energy released in the form of vibrations when there is abrupt movement on an existing fault; they move in all directions through the surround rock"}
+{"input": "P waves (Primary waves)", "output": "Are body waves that travel through the interior of the Earth."}
+{"input": "S waves (Secondary waves)", "output": "Are produced when material moves either vertically or horizontally and travel only within the uppermost layers of Earth."}
+{"input": "The severity of an earthquake depends on:", "output": "-The amount of potential energy that had been stored -The distance the rock mass moved when the energy was released -How far below the surface the movement occured -The makeup of the rock material"}
+{"input": "liquefaction", "output": "The process by which an earthquake's violent movement suddenly turns loose soil into liquid mud."}
+{"input": "tsunami", "output": "A series of waves created when a body of water is rapidly displaced usually be an earthquake.  e.g. T\u014dhoku, Japan Earthquake and Tsunami 2011 (also led to nuclear meltdown at Fukushima)"}
+{"input": "volcano", "output": "A mountain or hill having a crater or vent through which lava, rock fragments, hot vapor, and gas are being or have been erupted from the earth's crust"}
+{"input": "What do volcano eruptions do to our atmosphere?", "output": "-Release CO2, SO2, HCl -debris and particulates can block sunlight, making a cooler climate"}
+{"input": "Factors that affect the amount of solar energy at the surface of the Earth:", "output": "-Earth's rotation (once every 24 hours) -tilt of Earth's axis (23.5 degrees) -revolution around the sun (once per year) -closest to sun in winter, furthest in summer"}
+{"input": "O Horizon", "output": "Surface litter: leaves and partially decomposed organic debris. Thick in deciduous forests, thin in the tundra."}
+{"input": "A Horizon", "output": "Topsoil: organic matter (humus), living organisms, inorganic minerals. Topsoil is very thick in grasslands."}
+{"input": "E Horizon", "output": "Zone of leaching: dissolved and suspended materials move downward. In-between A and B horizon."}
+{"input": "B Horizon", "output": "Subsoil: tends to be yellowish in color due to the accumulation of Fe, Al, humic compounds, and clay leached down from A and E horizons. Can be rich in nutrients in areas with lots of rainwater."}
+{"input": "C Horizon", "output": "Weathered parent material: partially broken-down inorganic minerals"}
+{"input": "parent material", "output": "The rock and minerals from which the soil derives. Nature of parent rock can be native to the area or transported by wind, water, glaciers, etc."}
+{"input": "clay", "output": "-very fine particles -compacts easily -forms large, dense clumps when wet -low permeability to water, thus upper layers bcome waterlogged"}
+{"input": "gravel", "output": "-coarse particles -consists of rock fragments"}
+{"input": "loam", "output": "-about equal mixtures of clay, sand, silt, and humus -rich in nutrients -holds water but does not become waterlogged"}
+{"input": "sand", "output": "-sedimentary material coarser than silt -water flow through too quickly for most crops -good for crops and plants requiring low amounts of water"}
+{"input": "silt", "output": "-sedimentary material consisting of very fine particles between the size of sand and clay -easily transported by water"}
+{"input": "What color soil is most fertile?", "output": "a rich dark brown"}
+{"input": "waterlogging", "output": "saturation of soil with water resulting in a rise of the water table"}
+{"input": "problems of waterlogging", "output": "salty water envelops deep roots killing plants; lowers productivity; eventual destruction of plant life"}
+{"input": "solutions of waterlogging", "output": "switch to less water-demanding plants in susceptible areas; utilize conservation-tillage farming; plant waterlog-resistant plants; install drainage popes"}
+{"input": "salinization", "output": "a soil degradation process caused by repeated annual application of irrigation water in dry climates, which leads to the gradual accumulation of salts in the upper soil layers"}
+{"input": "problems of salinization", "output": "stunted crop growth; lower yield; eventual destruction of plant life"}
+{"input": "solutions of salinization", "output": "take land out of production for a while; install drainage pipes; flush soil with freshwater; planted halophytes (salt-loving plants) like barley, cotton, sugar, or wheat"}
+{"input": "desertification", "output": "occurs when the productive potential of soil, especially on arid or semiarid land, falls by 10% or more because of a combination of prolonged drought and human activities that reduce or degrade topsoil"}
+{"input": "problems of desertification", "output": "loss of native vegetation; increased wind erosion; salinization; drop in water table; reduced surface water supply"}
+{"input": "solutions of desertification", "output": "reduce overgrazing; reduce deforestation; reduce destructive forms of planting, irrigation, and mining; plant trees and grasses to hold soil"}
+{"input": "Soil erosion", "output": "is the movement of soil components, especially surface litter and topsoil, from one place to another by the actions of wind and water"}
+{"input": "What is most harmful human activity?", "output": "Agriculture has a greater harmful environmental impact than any other human activity"}
+{"input": "igneous", "output": "formed by cooling and classified by their silica content.  -majority of rocks in Earth's crust are igneous -Intrusive igneous rocks solidify deep underground, cool slowly and have large-grained texture. -Extrusive igneous rocks solidify on or near the surface, cool quickly, and have fine-grained smooth texture.  -Igneous rocks are broken down by weathering and water transport. e.g. granite and basalt"}
+{"input": "metamorphic", "output": "formed by intense heat and pressure e.g. diamond, marble asbestos, slate, anthracite coal"}
+{"input": "sedimentary", "output": "formed by piling and cementing of various materials over time in low-lying areas. Fossils form only in sedimentary rock. e.g. conglomerate, breccia, sandstone"}
+{"input": "What seven primary compounds is the Earth's atmosphere composed of?", "output": "-nitrogen (78%) -oxygen (21%) -water vapor (0-4%) -carbon dioxide (<<1%) -methane (<<<1%) -nitrous oxide (<<<1%) -ozone (<<<1%)"}
+{"input": "Nitrogen (N2)", "output": "Fundamental nutrient for living organisms. Deposits on Earth through nitrogen fixation and reactions involving lightning and subsequent precipitation. Returns to the atmosphere through combustion of biomass and denitrification."}
+{"input": "Oxygen (O2)", "output": "Oxygen molecules are produced through photosynthesis and are utilized in cellular respiration."}
+{"input": "Water vapor (H2O)", "output": "Largest amounts occur near equator, over oceans, and in tropical regions. Areas where atmospheric water vapor can be low are polar areas and deserts. -most voluminous greenhouse gas, cannot be added or reduced"}
+{"input": "Carbon dioxide (CO2)", "output": "Volume of CO2 has increased about 25% in the last 300 years due to the burning of fossil fuels and deforestation. CO2 is produced during cellular respiration and the decay of organic matter. It is a reactant in photosynthesis. CO2 is also a major greenhouse gas. -stays in atmosphere 100 years"}
+{"input": "Methane (CH4)", "output": "Methane contributes to the greenhouse effect. Since 1750, methane has increased about 150% due to use of fossil fuels, coal mining, landfills, grazers, etc. -stays in atmosphere 12 years"}
+{"input": "Nitrous oxide (NO2)", "output": "Concentration increasing about 0.3% per year. Sources include burning of fossil fuels, use of fertilizers, burning biomass, deforestation, etc. Can come from livestock farts. -stays in atmosphere 120 years"}
+{"input": "Ozone (O3)", "output": "97% of ozone is found in the stratosphere (ozone layer). Ozone absorbs UV radiation. Ozone is produced in the production of photochemical smog. CFC's have contributed to ozone layer depletion. Ozone is a pollutant in the troposphere."}
+{"input": "troposphere", "output": "-75% of atmosphere's mass is in the troposphere -temperature decreases with altitude -weather occurs in this zone"}
+{"input": "stratosphere", "output": "-temperature increases with altitude due to absorption of heat by ozone -ozone is produced by UV radiation and lightning -contains the ozone layer"}
+{"input": "mesosphere", "output": "-temperature decreases with altitude -coldest layer -ice clouds occur here -meteors (shooting stars) burn up in this layer"}
+{"input": "thermosphere (ionosphere)", "output": "-temperature increase with height due to gamma rays, X rays, and UV radiation -molecules are converted into ions -causes Northern lights"}
+{"input": "weather", "output": "is a LOCAL area's short-term temperature, precipitation, humidity, wind speed, cloud cover, and other physical conditions of the lower atmosphere as measured over hours or days -caused by movement of heat energy"}
+{"input": "climate", "output": "is an area's GENERAL pattern of atmospheric of weather conditions measured over long periods of time ranging from decades to thousands of years"}
+{"input": "radiation", "output": "the flow of electromagnetic radiation. Method by which Earth receives solar energy."}
+{"input": "conduction", "output": "involves transfer of heat through a substance that results from a difference in temperature"}
+{"input": "convection", "output": "is the primary way energy is transferred from hotter to colder regions in the Earth's atmosphere and determines weather patterns"}
+{"input": "Relationship between cold and hot air", "output": "Cold air is more dense, hot air is less dense and more spread out"}
+{"input": "albedo", "output": "is the diffuse reflectivity or reflecting power of a surface"}
+{"input": "specific heat", "output": "is the amount of heat per unit mass required to raise the temperature by one degree Celsius (water has a high specific heat)"}
+{"input": "temperature inversion", "output": "stops atmospheric convection (which is normally present) from happening in the affected area and can lead to the air becoming stiller and murky from the collection of dust and pollutants that are no longer able to be lifted from the surface. Worsens pollution. (COLD air) OVER (WARM air)"}
+{"input": "formation of clouds", "output": "when rising air, through expansion, cools to the point where some of the water vapor molecules \"clump together\" faster than they are torn apart by their thermal energy. Some of that (invisible) water vapor condenses to form (visible) cloud droplets or ice crystals."}
+{"input": "dew point", "output": "is the temperature below which the water vapor in a volume of humid air condense into liquid water"}
+{"input": "Rain shadow (orographic) effect", "output": "the loss of moisture from the landscape and the resulting semiarid or arid conditions on the leeward side of high mountains -Windward= lush, green, clouds, precipitation, ocean...leedward= deserts, sinking air, dry"}
+{"input": "Coriolis Effect", "output": "an effect whereby a mass moving in a rotating system experiences a force (the Coriolis force) acting perpendicular to the direction of motion and to the axis of rotation."}
+{"input": "monsoons", "output": "a seasonal prevailing wind in the region of South and Southeast Asia, blowing from the southwest between May and September and bringing rain (the wet monsoon), or from the northeast between October and April (the dry monsoon)"}
+{"input": "El Ni\u00f1o and La Ni\u00f1a (Southern Oscillation (ENSO))", "output": "large-scale weather phenomenon occurs every few years when prevailing winds in the tropical Pacific Ocean weaken and change direction o Above-average warming of Pacific waters affects populations of marine species by changing the distribution of plant nutrients, hurting fishing industry o Low nutrients, low dissolved oxygen (in South America, but in Australia during La Ni\u00f1a) o Severe flooding, storms, drought, mudslides, $ damage, human health hazards (dehydration, diarrhea, zoonotic diseases [lyme, Hanta])"}
+{"input": "Grasshopper effect", "output": "occurs when volatile air pollutants are transported by evaporation and winds from tropical and temperate areas though the atmosphere to the earth's polar areas, where they are deposited."}
+{"input": "natural sources of pollution", "output": "\u2022 dust blown by wind \u2022 pollutants from wildfires and volcanic eruptions \u2022 VOCs (volatile organic chemicals) released by some plants \u2022 Removed naturally by chemical cycles, precipitation, and gravity"}
+{"input": "manmade sources of pollution", "output": "\u2022 Industry, cars, electrical plants, coal \u2022 Burning of fossil fuels"}
+{"input": "primary pollutants", "output": "are harmful chemicals emitted directly into the air from natural processes and human activities  e.g. SOx, NOx, CO, VOCs, particulates, Lead"}
+{"input": "secondary pollutants", "output": "formed by some primary pollutants reacting with one another and with the basic component of air to form new harmful chemicals  e.g. O3, HNO3 (nitric acid), H2SO4 (sulfuric acid [acid rain])"}
+{"input": "Ways Air Pollution is Increased:", "output": "\u2022 Urban buildings can slow wind speed and reduce dilution and removal of pollutants \u2022 Hills and mountains can reduce the flow of air in valleys and allow pollutant levels to build up at ground level \u2022 High temperatures promote the chemical reactions leading to photochemical smog formation (global warming increases smog!) \u2022 Emissions of VOCs from certain trees and plants (e.g. oak, sweet gums, poplars, and kudzu) can play a large role in photochemical smog formation \u2022 Grasshopper effect \u2022 Temperature inversions"}
+{"input": "Industrial smog", "output": "(gray color) consists mostly of sulfur dioxide, suspended droplets of sulfuric acid, and a variety of suspended solid particles"}
+{"input": "Photochemical smog", "output": "(brown color) is a mixture of primary and secondary pollutants formed under the influence of UV radiation from the sun; formation of this smog begins when exhaust from morning commuter vehicles releases large amounts of NO and VOCs into the air over a city  \u2022 VOCs + NOx + heat + sunlight \u2192 ground level ozone (03) + other photochemical oxidants + aldehydes + other secondary pollutants"}
+{"input": "Properties of Water:", "output": "\u2022 strong hydrogen bonds \u2022 high specific heat \u2022 high boiling point \u2022 needs a lot of energy to evaporate \u2022 expands when freezes"}
+{"input": "Where is our water?", "output": "\u2022 70% of Earth's surface is covered by water \u2022 oceans hold about 97% of all water \u2022 3% is freshwater \u2022 majority of freshwater is stuck in glaciers \u2022 71% is saltwater, 0.024% is readily available freshwater \u2022 60% of the human body is water"}
+{"input": "Lake zonation:", "output": "\u2022 littoral zone \u2022 limnetic zone \u2022 photic zone \u2022 profundal zone \u2022 benthic zone (some zones are also applicable to oceans)"}
+{"input": "littoral zone", "output": "\u2022 top layer, near the shore \u2022 consists of the shallow sunlit waters to the depth at which rooted plants such as cattails stop growing \u2022 most productive zone because of sunlight and nutrients from the surrounding land \u2022 high biological diversity"}
+{"input": "limnetic zone", "output": "\u2022 sunlit surface away from shore that extends the depth sunlight penetration \u2022 the main photosynthetic body of the lake \u2022 produces the food and oxygen that support most of the lake's consumers"}
+{"input": "photic zone", "output": "\u2022 also called euphotic zone \u2022 sunlight zone is the depth of the water in a lake or ocean that is exposed to sufficient sunlight for photosynthesis to occur"}
+{"input": "profundal zone", "output": "\u2022 deep open water where it is too dark for photosynthesis \u2022 without sunlight and plants, oxygen levels are low"}
+{"input": "benthic zone", "output": "\u2022 bottom layer \u2022 inhabited by decomposers, detritus feeders, and some fish \u2022 dead matter falls here"}
+{"input": "oligotrophic lakes", "output": "lakes that have a small supply of plant nutrients e.g. glaciers, mountains, lakes"}
+{"input": "eutrophic lakes", "output": "lakes that are well-nourished; have large supply of plants nutrients; are shallow with murky brown or green water"}
+{"input": "mesotrophic", "output": "no nutrients in lakes"}
+{"input": "hypereutrophic", "output": "too many nutrients"}
+{"input": "Biogeochemical Cycles", "output": "The movement of abiotic factors between the living and nonliving components within ecosystems; also known as nutrient cycles (i.e., water cycle, carbon cycle, oxygen cycle, and nitrogen cycle)."}
+{"input": "The Water Cycle", "output": "Evaporation, condensation, precipitation, run off, transpiration, infiltration. Humans impact this by storing water in reservoirs, irrigation, deforestation, and putting chemicals in it"}
+{"input": "Condensation", "output": "The change of state from a gas to a liquid"}
+{"input": "Run off", "output": "The draining away of water (or substances carried in it) from the surface of an area of land, a building or structure, etc."}
+{"input": "Transpiration", "output": "Evaporation of water from the leaves of a plant"}
+{"input": "Infiltration", "output": "Flow of water from the land surface into the subsurface"}
+{"input": "The Carbon Cycle", "output": "The organic circulation of carbon from the atmosphere into organisms and back again. Humans impact this by burning fossil fuels and cutting down trees,"}
+{"input": "The Nitrogen Cycle", "output": "The transfer of nitrogen from the atmosphere to the soil, to living organisms, and back to the atmosphere. Humans impact this by altering the amount of nitrogen that is stored in the biosphere."}
+{"input": "The Phosphorus Cycle", "output": "The movement of phosphorus atoms from rocks through the biosphere and hydrosphere and back to rocks."}
+{"input": "The Sulfur Cycle", "output": "Cyclic movement of sulfur in various chemical forms from the environment to organisms and then back to the environment. Humans impact this by burning coal, natural gas, and other fossil fuels which greatly increases the amount of sulfur in the atmosphere and ocean and depleted the sedimentary rock sink"}
+{"input": "Where are the four major areas of water storage on Earth?", "output": "Atmosphere, surface water, ground water, and living things"}
+{"input": "Abiotic Factors", "output": "Nonliving components of environment."}
+{"input": "Biotic Factors", "output": "All the living organisms that inhabit an environment"}
+{"input": "Habitat", "output": "Where an organism lives and any aspect of the location"}
+{"input": "Niche", "output": "Full range of physical and biological conditions in which an organism lives and the way in which the organism uses those conditions"}
+{"input": "Organism", "output": "Any form of life. Belongs to any of the 6 kingdoms"}
+{"input": "Species", "output": "Group of organisms of same type that can reproduce to have fertile offspring"}
+{"input": "Population", "output": "A group of individuals that belong to the same species and live in the same area"}
+{"input": "Ecosystem", "output": "A biological community of interacting organisms and their physical environment. All abiotic and biotic factors."}
+{"input": "Producers/Autotrophs", "output": "Organisms that make their own food from compounds and energy obtained from the environment"}
+{"input": "Photosynthesis", "output": "Conversion of light energy from the sun into chemical energy"}
+{"input": "Salinity", "output": "A measure of the amount of dissolved salts in a given amount of liquid"}
+{"input": "Plankton", "output": "Small, weakly-swimming, free floating organisms"}
+{"input": "Decomposers", "output": "Organisms that break down the dead remains of other organisms"}
+{"input": "Phytoplankton", "output": "Photosynthetic algae found near the surface of the ocean"}
+{"input": "Euphotic Zone", "output": "Surface layer where photosynthesis is usually confined to"}
+{"input": "Where are nutrients found in abundance?", "output": "In shallow and cold waters"}
+{"input": "Coral Reef", "output": "The most diverse marine biome on Earth, found in warm, shallow waters beyond the shoreline. Only in waters 18-30 degrees celsius"}
+{"input": "Cultural Eutrophication", "output": "When human inputs of nutrients from the atmosphere and nearby urban areas accelerate the eutrophication of lakes"}
+{"input": "Watershed", "output": "The area of land that is drained by a water system"}
+{"input": "Human Impact on Freshwater Ecosystems", "output": "1. Dams, diversions, and canals fragment about 40% of our world's largest rivers 2. Flood control levees destroy aquatic habitats 3. Cities and farmlands add pollutants and excess plant nutrients to streams and rivers causing eutrophication 4. Many inland wetlands have been drained or filled to grow crops or have been covered with concrete, asphalt, and buildings"}
+{"input": "Biome", "output": "A group of ecosystems that share similar climates and typical organisms"}
+{"input": "Climatograms", "output": "Chart that is used to better understand climate by looking at the average temperature and precipitation"}
+{"input": "Desert", "output": "An area where evaporation exceeds precipitation and usually has little vegitation. Plants are well adapted to prevent water loss."}
+{"input": "Grasslands", "output": "Usually occur in the interiors of continents in areas too moist for deserts and too dry for forests. Seasonal drought"}
+{"input": "Savanna", "output": "Has warm temperatures year round with alternating wet and long dry seasons. Plants have deep root systems, grasses and shrubs. Grazing animals"}
+{"input": "Tundra", "output": "Treeless arctic or alpine biome characterized by cold, harsh winters, a short growing season, and potential for frost any month of the year; vegetation includes low-growing perennial plants, mosses and lichens"}
+{"input": "Tropical Rainforest", "output": "Found around the equator and has a wet and warm climate year round allowing for the growth of a dense canopy of tall trees. Have shallow root systems. Soil is low in nutrients. 40% have been destroyed"}
+{"input": "Temperate Deciduous Forest", "output": "Forest in a temperate region, characterized by trees that drop their leaves annually"}
+{"input": "Taiga(Boreal Forest)", "output": "Subarctic climate with long, cold, dry winters, and short , mild summers. Dominated by coniferous evergreen trees. Plant diversity is low"}
+{"input": "Chemosynthesis", "output": "When organisms use geothermal energy to convert inorganic compounds into carbohydrates"}
+{"input": "Consumers", "output": "An organism that obtains energy and nutrients by feeding on other organisms or their remains"}
+{"input": "Parasitism", "output": "A relationship between two organisms of different species where one benefits and the other is harmed"}
+{"input": "Mutualism", "output": "A relationship between two species in which both species benefit"}
+{"input": "Commensalism", "output": "A relationship between two organisms in which one organism benefits and the other is unaffected"}
+{"input": "Intraspecific competition", "output": "Competition among members of the same species"}
+{"input": "Interspecific Competition", "output": "Competition between members of different species"}
+{"input": "Resource Partitioning", "output": "When species competing for similar scarce resources evolve specialized traits that allow them to share resources by using parts of them, using them at different times, or using them in different ways"}
+{"input": "How does the phosphorus cycle differentiate from other biogeochemical cycles?", "output": "It does not include a gas phase"}
+{"input": "Predator Adaptations", "output": "Camouflage, speed, packs, poisons, acute senses, claws, teeth, fangs, stingers, etc."}
+{"input": "Prey Adaptations", "output": "retreat, camouflage, warning coloration, poison, mimicry, spines, thorns, etc."}
+{"input": "What two factors are most important in determining the type of biome that exists in an area?", "output": "Temperature and precipitation"}
+{"input": "Coral bleaching", "output": "A phenomenon in which algae inside corals die, causing the corals to turn white. When this happens, the habitat for the animals are destroyed"}
+{"input": "What are some major threats to coral reefs?", "output": "Overfishing, fishing using cyanide and dynamite, pollution from sewage and agriculture, massive outbreaks of predatory starfish, invasive species, and sedimentation from poor land use practices"}
+{"input": "Net Primary Productivity (NPP)", "output": "The amount of energy lost through respiration by producers sublated from the gross primary productivity of an ecosystem."}
+{"input": "Food Chain", "output": "A series of steps in which organisms transfer energy by eating and being eaten"}
+{"input": "Food web", "output": "A community of organisms where there are several interrelated food chains"}
+{"input": "What limits the number of trophic levels in an ecological pyramid?", "output": "Decrease in energy at higher trophic levels limits this. When the number of links keep increasing, the amount of energy available decreases, as only 10% of energy gets transferred from one trophic level to the next"}
+{"input": "Ecological Efficiency", "output": "Percentage of energy transferred from one trophic level to another in a food chain or web"}
+{"input": "Biomass", "output": "A measure of the total dry mass of organisms within a particular region"}
+{"input": "Pyramid of energy", "output": "A pyramid that shows the total amount of energy available at each trophic level"}
+{"input": "Biomass Pyramid", "output": "Diagram representing the biomass in each trophic level of an ecosystem"}
+{"input": "Gross Primary Productivity (GPP)", "output": "The total amount of solar energy that producers in an ecosystem capture via photosynthesis over a given amount of time"}
+{"input": "Fresh Water Biomes", "output": "ponds, lakes, streams, rivers. ***Vital source of drinking water***"}
+{"input": "The Ocean", "output": "a major storage reservoir of carbon"}
+{"input": "For a primary producer, the main function of photosynthesis is to manufacture", "output": "glucose"}
+{"input": "In a typical forest ecosystem, dead trees and fallen trees are most important because of their role in", "output": "providing habitats for wildlife"}
+{"input": "10% rule", "output": "Only 10% of the total energy produced at each trophic level is available to the next level. The amount of energy passed up to the levels of the food pyramid reduces as you go up."}
+{"input": "Nitrogen", "output": "Most abundant gas in the atmosphere"}
+{"input": "phosphorus reservoirs", "output": "sedimentary rocks from ancient oceans (sediments) soil dissolved in oceans biomass"}
+{"input": "The two major processes involved in the carbon cycle are", "output": "photosynthesis and cellular respiration"}
+{"input": "The ultimate source of energy for terrestrial ecosystems is the", "output": "sun"}
+{"input": "Tropical rain forest soil", "output": "is quickly depleted of nutrients when the forest is removed"}
+{"input": "competitive exclusion", "output": "Strong competition can lead to local elimination of one of the species."}
+{"input": "Brazil and Indonesia", "output": "Contain the greatest area of rain forests"}
+{"input": "Bacteria in soil", "output": "Responsible for \"fixing\" atmospheric nitrogen so it can be used for amino acids, DNA, etc."}
+{"input": "The approximate efficiency of the conversion of light energy to chemical energy in photosynthesis", "output": "1%"}
+{"input": "resource partitioning", "output": "The division of environmental resources by coexisting species such that the niche of each species differs by one or more significant factors from the niches of all coexisting species. Example: Birds and seed size"}
+{"input": "population", "output": "composed of all individuals that belong to the same species and live in a given area at a particular time"}
+{"input": "community", "output": "incorporates all of the populations of organisms within a given area"}
+{"input": "population ecology", "output": "the study of factors that cause populations to increase or decrease"}
+{"input": "population size", "output": "the total number of individuals within a defined area at a given time"}
+{"input": "population density", "output": "the number of individuals per unit area (or volume for aquatic organisms) at a given time"}
+{"input": "population distriution", "output": "a description of how individuals are distributed with respect to one another"}
+{"input": "sex ration", "output": "the ratio of males to females"}
+{"input": "age structure", "output": "a description of how many individuals fit into particular age categories"}
+{"input": "density-dependent factors", "output": "influences an individual's probability of survival and reproduction in a manner that depends on the size of the population"}
+{"input": "limiting resource", "output": "a resource that a population cannot live without and which occurs in quantities lower than the population would require to increase in size"}
+{"input": "carrying capacity; k", "output": "population growth slowed as population size increased because there was a limit to how many individuals the food supply could sustain"}
+{"input": "Density-independent factors", "output": "have the same effect on an individuals probability of survival and amount of reproduction at any population size"}
+{"input": "growth rate", "output": "the number of offspring an individual can produce in a given time period, minus the deaths of the individual or offspring during the same period"}
+{"input": "intrinsic growth rate; r", "output": "under ideal conditions, with unlimited resources available, every population has a particular maximum potential for growth"}
+{"input": "exponential growth model", "output": "tells us that, under ideal conditions, the future size of the population depends on the current size of the population, the intrinsic rate of the population, and the amount of time over which the population grows"}
+{"input": "logistic growth model", "output": "describes a population whose growth is initially exponential, but slows as the population approaches the carrying capacity of the environment"}
+{"input": "overshoot", "output": "when the population becomes larger than the spring carrying capacity"}
+{"input": "Die-off", "output": "population crash usually experienced after the overshoot of the carrying capacity"}
+{"input": "k-selected species", "output": "species that have a low intrinsic growth rate, which causes their populations to increase slowly until they reach the carrying capacity of the environment"}
+{"input": "r-selected species", "output": "species that have a high intrinsic growth rate because they reproduce often and produce large numbers of offspring"}
+{"input": "survivorship curves", "output": "graphs of distinct patterns of survival over time"}
+{"input": "corridors", "output": "strips of habitat that connect separated populations that the animal travels across"}
+{"input": "community ecology", "output": "the study of species interactions, which determine the survival of a species in a habitat"}
+{"input": "competition", "output": "the struggle of individuals to obtain a limiting resource"}
+{"input": "competitive exclusion principle", "output": "states that two species competing for the same limiting resource cannot coexist"}
+{"input": "resource partitioning", "output": "where two species divide a resource based on differences in the species' behavior or morphology"}
+{"input": "predation", "output": "refers to the use of one species as a resource by another species"}
+{"input": "true predators", "output": "typically kill their prey and consume most of what they kill"}
+{"input": "herbivores", "output": "consumes plants as prey"}
+{"input": "parasites", "output": "live on or in the organisms they consume"}
+{"input": "parasitoids", "output": "organisms that lay eggs inside other organims"}
+{"input": "mutualism", "output": "benefits two interacting species by increasing both species' chances of survival or reproduction"}
+{"input": "commensalism", "output": "a type of relationship in which one species benefits but the other is neither harmed nor helped"}
+{"input": "symbiotic relationship", "output": "the relationship of two species that live in close association with each other"}
+{"input": "keystone species", "output": "a species that plays a role in its community"}
+{"input": "predator-mediated competition", "output": "competition in which a predator is instrumental in reducing the abundance of a superior competitor, allowing inferior competitors to persist"}
+{"input": "ecosystem engineers", "output": "species that create or maintain habitat for other species"}
+{"input": "ecological succession", "output": "the predictable replacement of one group of species by another group of species over time"}
+{"input": "primary succession", "output": "occurs on surfaces that are intially devoid of soil"}
+{"input": "secondary succession", "output": "occurs in areas that have been disturbed but have not lost their soil"}
+{"input": "pioneer species", "output": "organisms that have the ability to colonize new areas rapidly and grow well in full sunshine"}
+{"input": "theory of island biogeography", "output": "demonstrates the dual importance of habitat size and distance in determining species richness"}
+{"input": "Aquifers", "output": "Permeable layers of rock and sediment that contain groundwater in many small spaces."}
+{"input": "Unconfined Aquifer", "output": "Water can flow easily in and out of the aquifer. Porous rock covered by soil"}
+{"input": "Confined Aquifer", "output": "Aquifers covered by an impermeable and confining layer impeding water flow in or out."}
+{"input": "Water Table", "output": "Uppermost aquifer layer where water fully saturates the rock or soil."}
+{"input": "Groundwater Recharge", "output": "Water from precipitation percolates through soil and into aquifer. If confined, can't recharge."}
+{"input": "Springs", "output": "Water from some aquifers naturally comes up, natural source of freshwater"}
+{"input": "Artesian Wells", "output": "Drilled hole in a confined aquifer releases pressure and pushes water up."}
+{"input": "Cone of Depression", "output": "Area where there's no longer any groundwater, caused by well overuse, eventually will go dry."}
+{"input": "Saltwater intrusion", "output": "Lessened pressure from over-pumping so salt water infiltrates and makes well water salty."}
+{"input": "Floodplain", "output": "Land adjacent to river where excess water spreads onto."}
+{"input": "Oligotrophic", "output": "Lakes with low productivity because of little nutrients such as phosphorus and nitrogen."}
+{"input": "Mesotrophic", "output": "Lakes with moderate levels of productivity"}
+{"input": "Eutrophic", "output": "Lakes with high levels of productivity"}
+{"input": "Impermeable Surfaces", "output": "Pavement, buildings, etc. Doesn't allow water penetration, water then runs into sewers and streams. Excess water causes floods."}
+{"input": "Levee", "output": "Enlarged bank on each side of river to prevent flooding"}
+{"input": "Dikes", "output": "Similar to levees but to prevent ocean waters from flooding coasts that are under sea level."}
+{"input": "Dam", "output": "Barrier that runs across a river/stream to control water flow"}
+{"input": "Reservoir", "output": "Large body of water stored behind a dam. Held for consumption, generating electricity, flood control, or recreation."}
+{"input": "Fish Ladders", "output": "Sets of stairs with water flowing over them to have fish migrate despite dams."}
+{"input": "Aqueducts", "output": "Canals or ditches used to carry water between locations. Transports water to dry areas."}
+{"input": "Desalination", "output": "Removes salt from salt water to make fresh water."}
+{"input": "Distillation", "output": "Desalination method. Seawater flows in, heated to create steam, cool seawater in condensing coil causes steam to condense. Brine and fresh water then flows out."}
+{"input": "Reverse Osmosis", "output": "Desalination method. Seawater flows in, pressure applied, water goes through semipermeable membrane, salt can't. Water and brine flows out."}
+{"input": "Hydroponic Agriculture", "output": "Cultivation under greenhouse conditions with roots in nutrient rich solution, and not soil."}
+{"input": "biogeochemical cycle", "output": "The circulation of matter through the biosphere."}
+{"input": "Water Cycle", "output": "The continual movement of water between Earth's atmosphere, oceans, and land surface through evaporation, condensation, and precipitation."}
+{"input": "Carbon Cycle", "output": "The series of processes by which carbon compounds are interconverted in the environment. This involves the incorporation of carbon dioxide into living tissue by photosynthesis and its return to the atmosphere through respiration, the decay of dead organisms, and the burning of fossil fuels."}
+{"input": "Nitrogen Cycle", "output": "The transfer of nitrogen from the atmosphere to the soil, to living organisms, and back to the atmosphere. Lightning, and nitrogen fixing bacteria transform inorganic nitrogen to organic forms of nitrogen."}
+{"input": "Phosphorous Cycle", "output": "the cyclic movement of phosphorus in different chemical forms from the environment to organisms and then back to the environment. This cycle does not have an atmospheric component."}
+{"input": "Nitrogen Fixing Bacteria", "output": "found on legume roots, turn nitrogen into a usable form, nitrate."}
+{"input": "Denitrifying Bacteria", "output": "Bacteria that convert the nitrates in soil or water to gaseous nitrogen and release it back into the atmosphere."}
+{"input": "Evaporation", "output": "The change of a substance from a liquid to a gas. When liquid water is heated to become a vapor."}
+{"input": "Condensation", "output": "The change of state from a gas to a liquid. Water in the vapor form is cooled, and condenses, so the molecules of gas get closer, and form liquid."}
+{"input": "Precipitation", "output": "Any form of water that falls from clouds and reaches Earth's surface."}
+{"input": "Transpiration", "output": "Evaporation of water from the leaves of a plant."}
+{"input": "Runoff", "output": "Part of the water cycle where an excess of water runs down and does not sink into the soil and eventually makes it to the rivers, lakes, and oceans."}
+{"input": "climate", "output": "the average weather that occurs in a given region over a long period - typically several decades"}
+{"input": "troposhpere", "output": "the layer of the atmosphere closest to Earth's surface"}
+{"input": "stratosphere", "output": "layer of the atmosphere above the troposphere"}
+{"input": "albedo", "output": "the percentage of incoming sunlight that is reflected from a surface"}
+{"input": "saturation point", "output": "the maximum amount of water vapor that can be in the air at a given temperature"}
+{"input": "adiabatic cooling", "output": "the process in which the decrease of atmospheric pressure allows rising air to expand in volume and lower it's temperature"}
+{"input": "adiabatic heating", "output": "the process in which the increase of atmospheric pressure allows sinking air to decrease in volume and raise it's temperature"}
+{"input": "Hadley Cell", "output": "the convection currents that cycle between the equator and 30 degrees N and S"}
+{"input": "intertropical convergence zone", "output": "where the ascending branches of the two Hadley cells converge"}
+{"input": "polar cells", "output": "similar to Hadley cells; circulates beween 60 degrees N and S and the poles"}
+{"input": "Coriolis Effect", "output": "the deflection of an objects path due to Earth's rotation"}
+{"input": "gyres", "output": "large-scale patterns of water circulation"}
+{"input": "upwelling", "output": "upward movement of water toward the surface"}
+{"input": "thermohaline circulation", "output": "drives the mixing of surface water and deep water"}
+{"input": "el Nino; ENSO", "output": "periodic changes in winds and ocean currents"}
+{"input": "rain shadow", "output": "warm, dry air produces arid conditions on the leeward side of a mountain range"}
+{"input": "biomes", "output": "terrestrial geographic regions that have a particular combination of average annual temperature and annual precipitation and contain distinctive plant growth forms that are adapted to that climate"}
+{"input": "tundra", "output": "a biome that is cold and treeless, with low-growing vegetation"}
+{"input": "permafrost", "output": "an impermeable, permanently frozen layer that prevents water from draining and roots from penetrating"}
+{"input": "boreal forest", "output": "a biome; are forests made up primarily of coniferous (cone-bearing) evergreen trees that can tolerate cold winters and short growing seasons"}
+{"input": "temperate rainforest", "output": "a biome; moderate temperatures and high precipitation typify this biome"}
+{"input": "temp seasonal forest", "output": "a biome; are more abundant than temperate rainforests; experience much warmer summers and colder winters than temperate rainforests"}

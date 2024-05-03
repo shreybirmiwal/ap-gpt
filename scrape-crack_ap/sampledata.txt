@@ -1,0 +1,1010 @@
+           Previous
+          </a>
+         </li>
+         <li>
+          <a href="/ap/chemistry/question-75-answer-and-explanation.html">
+           Next
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+     </main>
+     <aside class="col-md-2 col-sm-3 col-xs-0 col-lg-2 sidebar navbar-offcanvas navbar-offcanvas-touch navbar-offcanvas-fade" id="sb">
+      <div class="navbar-header">
+       <button class="navbar-toggle offcanvas-toggle pull-right" data-target="#sb" data-toggle="offcanvas" style="float:left;" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <i class="glyphicon glyphicon-remove">
+        </i>
+       </button>
+      </div>
+      <div class="widget" id="sidebar">
+       <ul>
+        <li class="l1">
+         <a href="/ap-exam-information/">
+          AP Exam Information
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap-exam-information/about-ap.html">
+          About AP
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap-exam-information/scores.html">
+          Scores
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap-exam-information/exam-dates.html">
+          Exam Dates
+         </a>
+        </li>
+        <li class="l1">
+         <a href="/ap-credit-policies/">
+          AP Credit Policies
+         </a>
+        </li>
+        <li class="l1">
+         <a href="/college-admissions/">
+          College Admissions
+         </a>
+        </li>
+        <li class="l1">
+         <a href="/ap/">
+          AP Tests
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/world-history/">
+          AP World History
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/us-history/">
+          AP US History
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/european-history/">
+          AP European History
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/art-history/">
+          AP Art History
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/us-government-and-politics/">
+          AP US Government and Politics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/comparative-government-and-politics/">
+          AP Comparative Government and Politics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/psychology/">
+          AP Psychology
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/human-geography/">
+          AP Human Geography
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/biology/">
+          AP Biology
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/chemistry/">
+          AP Chemistry
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/macroeconomics/">
+          AP Macroeconomics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/microeconomics/">
+          AP Microeconomics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/statistics/">
+          AP Statistics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/english-language-and-composition/">
+          AP English Language and Composition
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/english-literature-and-composition/">
+          AP English Literature and Composition
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/spanish-language-culture/">
+          AP Spanish Language and Culture
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/precalculus/">
+          AP Precalculus
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/calculus-ab/">
+          AP Calculus AB
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/calculus-bc/">
+          AP Calculus BC
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/physics-1/">
+          AP Physics 1
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/physics-2/">
+          AP Physics 2
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/physics-c-mechanics/">
+          AP Physics C: Mechanics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/physics-c-electricity-and-magnetism/">
+          AP Physics C: Electricity and Magnetism
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/environmental-science/">
+          AP Environmental Science
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/computer-science-principles/">
+          AP Computer Science Principles
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/computer-science-a/">
+          AP Computer Science A
+         </a>
+        </li>
+        <li class="l1">
+         <a href="/ap-downloads/">
+          AP Downloads
+         </a>
+        </li>
+        <li class="l1">
+         <a href="/ap-books/">
+          AP Books
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="https://www.satpanda.com">
+          SAT Practice Tests
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="https://www.actexam.net">
+          ACT Test
+         </a>
+        </li>
+       </ul>
+      </div>
+     </aside>
+    </div>
+   </div>
+  </section>
+  <footer class="foot">
+   <div class="container bdrdown">
+    <div class="foot-claim">
+     <p>
+      *AP &amp; Advanced Placement Program are registered trademarks of the College Board, which was not involved in the production of, and does not endorse this site.
+     </p>
+    </div>
+    <div class="foot-link">
+     <ul>
+      <li>
+       All content of site and practice tests copyright © 2017 Max.
+       <a href="/about/sitemap.html">
+        sitemap
+       </a>
+      </li>
+      <li>
+       <a href="https://www.crackap.com">
+        Home
+       </a>
+      </li>
+      <li>
+       <a href="/about/privacy.html">
+        Privacy
+       </a>
+      </li>
+      <li>
+       <a href="/about/copyright.html">
+        Copyright
+       </a>
+      </li>
+      <li>
+       <a href="/about/contact.html">
+        Contact
+       </a>
+      </li>
+      <li>
+       <a href="/about/link-to-us.html">
+        Link to us
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js">
+   </script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js">
+   </script>
+   <script src="/js/bootstrap.offcanvas.js">
+   </script>
+  </footer>
+ </body>
+</html>
+
+Question 75 - AP Chemistry Question 75: Answer and Explanation_crackap.com
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   AP Chemistry Question 75: Answer and Explanation_crackap.com
+  </title>
+  <meta content="{keywords}" name="keywords">
+   <meta content="3. Which of the following is true for all bases? A. All bases donate OH- ions into solution. B. Only strong bases create solutions in which OH- ions are present. C. Only strong bases are good conductors when dissolved in solution. D. For weak bases, the concentration of the OH-ions exceeds the concentration of the base in the solution. E. " name="description">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/css/main.css" rel="stylesheet"/>
+    <!--[if lt IE 9]>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+                <![endif]-->
+    <script src="/js/stat.js">
+    </script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <nav class="navbar navbar-static-top">
+   <div class="container bdrup">
+    <div class="navbar-header">
+     <button class="navbar-toggle offcanvas-toggle" data-target="#sb" data-toggle="offcanvas" style="float:left;" type="button">
+      <span class="sr-only">
+       Toggle navigation
+      </span>
+      <i class="glyphicon glyphicon-th-list">
+      </i>
+     </button>
+     <button aria-controls="navbar" aria-expanded="false" class="navbar-toggle" data-target="#navbar" data-toggle="collapse" type="button">
+      <span class="sr-only">
+       Toggle navigation
+      </span>
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+     </button>
+     <a class="navbar-brand" href="https://www.crackap.com">
+      <img src="/images/logo.gif" style="max-width:180px; margin-top:-7px;"/>
+     </a>
+    </div>
+    <div class="collapse navbar-collapse" id="navbar">
+     <ul class="nav navbar-nav">
+      <li>
+       <a href="https://www.crackap.com">
+        Home
+       </a>
+      </li>
+      <li>
+       <a href="/ap/">
+        AP Tests
+       </a>
+      </li>
+      <li>
+       <a href="/ap-downloads/">
+        AP Downloads
+       </a>
+      </li>
+      <li>
+       <a href="/ap-books/">
+        AP Books
+       </a>
+      </li>
+      <li>
+       <a href="https://www.cracksat.net" target="_blank">
+        <font color="#FF0000">
+         SAT Prep
+        </font>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.crackab.com" target="_blank">
+        <font color="#FF0000">
+         ACT Prep
+        </font>
+       </a>
+      </li>
+     </ul>
+     <form action="https://cse.google.com/cse" class="navbar-form" method="get" role="search">
+      <div class="input-group navbar-right col-xs-12 col-sm-3 col-md-2">
+       <input class="form-control" name="q" placeholder="Search" type="text"/>
+       <input name="r" type="hidden" value="m"/>
+       <input name="cx" type="hidden" value="007369200048578010864:2ns5w311qo4"/>
+       <span class="input-group-btn">
+        <button class="btn btn-primary btn-search" type="submit">
+         Go
+        </button>
+       </span>
+      </div>
+     </form>
+    </div>
+   </div>
+  </nav>
+  <section class="content-wrap">
+   <div class="container">
+    <div class="row">
+     <main class="col-md-10 col-sm-9 col-xs-12 col-lg-10 main-content pull-right">
+      <h1>
+       <strong>
+        AP Chemistry Question 75: Answer and Explanation
+       </strong>
+      </h1>
+      <div class="breadnav">
+       <a href="https://www.crackap.com/">
+        Home
+       </a>
+       /
+       <a href="/ap/">
+        AP Test
+       </a>
+       /
+       <a href="/ap/chemistry/">
+        AP Chemistry Practice Tests
+       </a>
+      </div>
+      <div id="ap-banner">
+       <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+       </script>
+       <!-- ap-banner-new -->
+       <ins class="adsbygoogle" data-ad-client="ca-pub-3205209572203642" data-ad-format="auto" data-ad-slot="2297895081" data-full-width-responsive="true" style="display:block">
+       </ins>
+       <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+      </div>
+      <div class="content">
+       <div class="test-info pull-right">
+        <!--<div id="ap-300">
+                                                </div>-->
+        <h3>
+         Test Information
+        </h3>
+        <p>
+         Use your browser's
+         <a href="javascript: history.go(-1)">
+          back
+         </a>
+         button to return to your test results.
+        </p>
+        <div id="moretest">
+         <ul>
+          <li>
+           <font color="red">
+            »
+           </font>
+           Do
+           <a href="/ap/chemistry/">
+            AP Chemistry Practice Tests
+           </a>
+          </li>
+          <li>
+           <font color="red">
+            »
+           </font>
+           <a href="/ap-downloads/chemistry.html">
+            Download AP Chemistry Practice Tests
+           </a>
+          </li>
+          <li>
+           <font color="red">
+            »
+           </font>
+           <a href="/ap-books/chemistry.html">
+            Best AP Chemistry Books
+           </a>
+          </li>
+         </ul>
+         <h3>
+          More AP Tests
+         </h3>
+         <ul>
+          <li>
+           <a href="/ap/chemistry/test1.html">
+            AP Chemistry Test 1
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test2.html">
+            AP Chemistry Test 2
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test3.html">
+            AP Chemistry Test 3
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test4.html">
+            AP Chemistry Test 4
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test5.html">
+            AP Chemistry Test 5
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test6.html">
+            AP Chemistry Test 6
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test7.html">
+            AP Chemistry Test 7
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test8.html">
+            AP Chemistry Test 8
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test9.html">
+            AP Chemistry Test 9
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test10.html">
+            AP Chemistry Test 10
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test11.html">
+            AP Chemistry Test 11
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test12.html">
+            AP Chemistry Test 12
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test13.html">
+            AP Chemistry Test 13
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test14.html">
+            AP Chemistry Test 14
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test15.html">
+            AP Chemistry Test 15
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test16.html">
+            AP Chemistry Test 16
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test17.html">
+            AP Chemistry Test 17
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test18.html">
+            AP Chemistry Test 18
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test19.html">
+            AP Chemistry Test 19
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test20.html">
+            AP Chemistry Test 20
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test21.html">
+            AP Chemistry Test 21
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test22.html">
+            AP Chemistry Test 22
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test23.html">
+            AP Chemistry Test 23
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test24.html">
+            AP Chemistry Test 24
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test25.html">
+            AP Chemistry Test 25
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test26.html">
+            AP Chemistry Test 26
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test27.html">
+            AP Chemistry Test 27
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test28.html">
+            AP Chemistry Test 28
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test29.html">
+            AP Chemistry Test 29
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test30.html">
+            AP Chemistry Test 30
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test31.html">
+            AP Chemistry Test 31
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test32.html">
+            AP Chemistry Test 32
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test33.html">
+            AP Chemistry Test 33
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test34.html">
+            AP Chemistry Test 34
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test35.html">
+            AP Chemistry Test 35
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test36.html">
+            AP Chemistry Test 36
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test37.html">
+            AP Chemistry Test 37
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test38.html">
+            AP Chemistry Test 38
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test39.html">
+            AP Chemistry Test 39
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test40.html">
+            AP Chemistry Test 40
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test41.html">
+            AP Chemistry Test 41
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test42.html">
+            AP Chemistry Test 42
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test43.html">
+            AP Chemistry Test 43
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test44.html">
+            AP Chemistry Test 44
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test45.html">
+            AP Chemistry Test 45
+           </a>
+          </li>
+          <li>
+           <a href="/ap/chemistry/test46.html">
+            AP Chemistry Test 46
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div id="ap-e-300-txt">
+        </div>
+       </div>
+       <div class="mcontent">
+        <p>
+         <strong>
+          Question: 75
+         </strong>
+        </p>
+        <p>
+         <b>
+          3.
+         </b>
+         Which of the following is true for all bases?
+        </p>
+        <ul class="qlist">
+         <li>
+          A. All bases donate OH
+          <sup class="frac">
+           -
+          </sup>
+          ions into solution.
+         </li>
+         <li>
+          B. Only strong bases create solutions in which OH
+          <sup class="frac">
+           -
+          </sup>
+          ions are present.
+         </li>
+         <li>
+          C. Only strong bases are good conductors when dissolved in solution.
+         </li>
+         <li>
+          D. For weak bases, the concentration of the OH
+          <sup class="frac">
+           -
+          </sup>
+          ions exceeds the concentration of the base in the solution.
+         </li>
+        </ul>
+        <p>
+         <strong>
+          Correct Answer:
+         </strong>
+         C
+        </p>
+        <p>
+         <strong>
+          Explanation:
+         </strong>
+        </p>
+        <p>
+         <strong>
+          C
+         </strong>
+         Strong bases dissociate to donate hydroxide ions into a solution and weak bases cause the creation of hydroxide ions by taking protons from water. However, weak bases do not protonate strongly, meaning there will not be nearly as many ions in solution for a weak base as there are for a strong base. Thus, weak bases are not good conductors.
+        </p>
+       </div>
+       <nav aria-label="Page navigation">
+        <ul class="pager">
+         <li>
+          <a href="/ap/chemistry/question-74-answer-and-explanation.html">
+           Previous
+          </a>
+         </li>
+         <li>
+          <a href="/ap/chemistry/question-76-answer-and-explanation.html">
+           Next
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+     </main>
+     <aside class="col-md-2 col-sm-3 col-xs-0 col-lg-2 sidebar navbar-offcanvas navbar-offcanvas-touch navbar-offcanvas-fade" id="sb">
+      <div class="navbar-header">
+       <button class="navbar-toggle offcanvas-toggle pull-right" data-target="#sb" data-toggle="offcanvas" style="float:left;" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <i class="glyphicon glyphicon-remove">
+        </i>
+       </button>
+      </div>
+      <div class="widget" id="sidebar">
+       <ul>
+        <li class="l1">
+         <a href="/ap-exam-information/">
+          AP Exam Information
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap-exam-information/about-ap.html">
+          About AP
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap-exam-information/scores.html">
+          Scores
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap-exam-information/exam-dates.html">
+          Exam Dates
+         </a>
+        </li>
+        <li class="l1">
+         <a href="/ap-credit-policies/">
+          AP Credit Policies
+         </a>
+        </li>
+        <li class="l1">
+         <a href="/college-admissions/">
+          College Admissions
+         </a>
+        </li>
+        <li class="l1">
+         <a href="/ap/">
+          AP Tests
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/world-history/">
+          AP World History
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/us-history/">
+          AP US History
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/european-history/">
+          AP European History
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/art-history/">
+          AP Art History
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/us-government-and-politics/">
+          AP US Government and Politics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/comparative-government-and-politics/">
+          AP Comparative Government and Politics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/psychology/">
+          AP Psychology
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/human-geography/">
+          AP Human Geography
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/biology/">
+          AP Biology
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/chemistry/">
+          AP Chemistry
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/macroeconomics/">
+          AP Macroeconomics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/microeconomics/">
+          AP Microeconomics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/statistics/">
+          AP Statistics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/english-language-and-composition/">
+          AP English Language and Composition
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/english-literature-and-composition/">
+          AP English Literature and Composition
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/spanish-language-culture/">
+          AP Spanish Language and Culture
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/precalculus/">
+          AP Precalculus
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/calculus-ab/">
+          AP Calculus AB
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/calculus-bc/">
+          AP Calculus BC
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/physics-1/">
+          AP Physics 1
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/physics-2/">
+          AP Physics 2
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/physics-c-mechanics/">
+          AP Physics C: Mechanics
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/physics-c-electricity-and-magnetism/">
+          AP Physics C: Electricity and Magnetism
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/environmental-science/">
+          AP Environmental Science
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/computer-science-principles/">
+          AP Computer Science Principles
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="/ap/computer-science-a/">
+          AP Computer Science A
+         </a>
+        </li>
+        <li class="l1">
+         <a href="/ap-downloads/">
+          AP Downloads
+         </a>
+        </li>
+        <li class="l1">
+         <a href="/ap-books/">
+          AP Books
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="https://www.satpanda.com">
+          SAT Practice Tests
+         </a>
+        </li>
+        <li>
+         <a class="sub" href="https://www.actexam.net">
+          ACT Test
+         </a>
+        </li>
+       </ul>
+      </div>
+     </aside>
+    </div>
+   </div>
+  </section>
+  <footer class="foot">
+   <div class="container bdrdown">
+    <div class="foot-claim">
+     <p>
+      *AP &amp; Advanced Placement Program are registered trademarks of the College Board, which was not involved in the production of, and does not endorse this site.
+     </p>
+    </div>
+    <div class="foot-link">
+     <ul>
+      <li>
+       All content of site and practice tests copyright © 2017 Max.
+       <a href="/about/sitemap.html">
+        sitemap
+       </a>
+      </li>
+      <li>
+       <a href="https://www.crackap.com">
+        Home
+       </a>
+      </li>
+      <li>
+       <a href="/about/privacy.html">
+        Privacy
+       </a>
+      </li>
+      <li>
+       <a href="/about/copyright.html">
+        Copyright
+       </a>
+      </li>
+      <li>
+       <a href="/about/contact.html">
+        Contact
+       </a>
+      </li>
+      <li>
+       <a href="/about/link-to-us.html">
+        Link to us
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js">
+   </script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js">
+   </script>
+   <script src="/js/bootstrap.offcanvas.js">
+   </script>
+  </footer>
+ </body>
+</html>
